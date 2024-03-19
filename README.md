@@ -1,4 +1,6 @@
-## Coding the future...
+  <!-- **************************************************************** INTRO **************************************************************** -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Initiating...;Coding+the+future...)](https://git.io/typing-svg)
+
   <!-- **************************************************************** ICONS **************************************************************** -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Pk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
