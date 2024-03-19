@@ -1,4 +1,4 @@
-## Codificando o amanhã...
+## Coding the future...
   <!-- **************************************************************** ICONS **************************************************************** -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Pk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,5 +35,5 @@
     <a href="https://github.com/getintorj/getintorj">
         <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&column=-1&theme=radical&layout=compact"width="95%"/> 
 </p>
-  
+ <a href="https://www.buymeacoffee.com/PkLavc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 </div>
