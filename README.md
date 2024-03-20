@@ -19,8 +19,12 @@
 </div>   
  <!--************************************************************ Total Contributions**************************************************************--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
+</div>
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+</div>
 </p>
+   
 <!--************************************************************ Trophy**************************************************************--> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--************************************************************ Support Me Here**************************************************************--> 
