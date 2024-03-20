@@ -17,7 +17,7 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>   
- <!--************************************************************ Total Contributions**************************************************************--> 
+ <!--***************************************************** Total Contributions / GIF**********************************************************--> 
  <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
 </div>
@@ -25,10 +25,11 @@
 </div>
 </p>
    
-<!--************************************************************ Trophy**************************************************************--> 
+<!--**************************************************************** Trophy*******************************************************************--> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--************************************************************ Support Me Here**************************************************************--> 
    
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc)
-   
-</div>
+
+<!--**************************************************************** Footer********************************************************************--> 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF00&section=footer"/>
