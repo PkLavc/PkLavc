@@ -20,8 +20,8 @@
  <!--**************************************** Total Contributions / GIF*********************************************--> 
  <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
-</div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+<div>
+  <img align="right" alt="My anime version - Gif" height="180" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 </div>
 </p>
 <!--************************************************** Trophy*******************************************************--> 
