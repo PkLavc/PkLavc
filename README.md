@@ -24,12 +24,10 @@
   <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
 </div>
 </p>
-   
 <!--**************************************************************** Trophy*******************************************************************--> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--************************************************************ Support Me Here**************************************************************--> 
-   
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc)
 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=FFDD00&style=for-the-badge">
 <!--**************************************************************** Footer********************************************************************--> 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF00&section=footer"/>
