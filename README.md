@@ -17,10 +17,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>   
  <!--**************************************** Total Contributions / GIF********************************************* --> 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true" height="180">
-  <img align="right" alt="GIF" height="180" width="373" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2g7SUFJGmNeULEJHbBqzCJTroAvmCYmAbSMj6mpdSRss6TKd7PFCn9tpxMn6bnoF7IPc3GwzpWZXGnZbXFjt1qVlU8pR3wuI8VUzcPIDs1zyF7VnQvhwekpS8a1Bfqkm3QRHY3oqNCLw/s1600/Terminator.gif">
+<p align="center" style="display: flex; justify-content: space-between; flex-wrap: nowrap; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true" class="responsive" height="180">
+  <img align="right" alt="GIF" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2g7SUFJGmNeULEJHbBqzCJTroAvmCYmAbSMj6mpdSRss6TKd7PFCn9tpxMn6bnoF7IPc3GwzpWZXGnZbXFjt1qVlU8pR3wuI8VUzcPIDs1zyF7VnQvhwekpS8a1Bfqkm3QRHY3oqNCLw/s1600/Terminator.gif" class="responsive" height="180">
 </p>
+
 <!--************************************************** Trophy******************************************************* --> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--**************************************** Support Me Here / Counter********************************************** --> 
