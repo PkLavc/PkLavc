@@ -18,7 +18,7 @@
 </div>   
  <!--**************************************** Total Contributions / GIF********************************************* --> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true" height="374">
   <img align="right" alt="GIF" height="180" width="373" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2g7SUFJGmNeULEJHbBqzCJTroAvmCYmAbSMj6mpdSRss6TKd7PFCn9tpxMn6bnoF7IPc3GwzpWZXGnZbXFjt1qVlU8pR3wuI8VUzcPIDs1zyF7VnQvhwekpS8a1Bfqkm3QRHY3oqNCLw/s1600/Terminator.gif">
 </p>
 <!--************************************************** Trophy******************************************************* --> 
