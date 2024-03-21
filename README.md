@@ -20,7 +20,7 @@
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
 <div>
-  <img align="right" alt="My anime version - Gif" height="180" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
+  <img align="right" alt="GIF" height="180" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
 </div>
 </p>
 <!--************************************************** Trophy******************************************************* --> 
