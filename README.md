@@ -20,7 +20,7 @@
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
 <div>
-  <img align="right" alt="GIF" height="180" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
+  <img align="right" alt="GIF" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2g7SUFJGmNeULEJHbBqzCJTroAvmCYmAbSMj6mpdSRss6TKd7PFCn9tpxMn6bnoF7IPc3GwzpWZXGnZbXFjt1qVlU8pR3wuI8VUzcPIDs1zyF7VnQvhwekpS8a1Bfqkm3QRHY3oqNCLw/s1600/Terminator.gif">
 </div>
 </p>
 <!--************************************************** Trophy******************************************************* --> 
