@@ -18,11 +18,12 @@
 </div>   
  <!--**************************************** Total Contributions / GIF********************************************* --> 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true"
-<div>
-  <img align="right" alt="GIF" height="180" src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif">
-</div>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true">
+  <div>
+    <img align="right" alt="GIF" height="180" src="https://github.com/PkLavc/PkLavc/assets/163757335/d5b590fb-8234-4d44-b2ea-f731cfd66543.gif">
+  </div>
 </p>
+
 <!--************************************************** Trophy******************************************************* --> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--**************************************** Support Me Here / Counter********************************************** --> 
