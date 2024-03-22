@@ -24,6 +24,13 @@
 <!--*************************************************Snake********************************************************** --> 
 
 ![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
+<!-- Gráfico de contribuições - Modo Escuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!--************************************************** Trophy******************************************************* --> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--**************************************** Support Me Here / Counter********************************************** --> 
