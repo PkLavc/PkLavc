@@ -24,6 +24,7 @@
 <!--*************************************************Snake********************************************************** --> 
 
 ![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Gráfico de contribuições - Modo Escuro -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
