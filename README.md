@@ -18,10 +18,8 @@
 </div>   
  <!--**************************************** Total Contributions / GIF********************************************* --> 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true">
-  <div>
-    <img align="right" alt="GIF" height="180" src="https://github.com/PkLavc/PkLavc/assets/163757335/d5b590fb-8234-4d44-b2ea-f731cfd66543.gif">
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true">
+  <img align="right" alt="Skyler - GIF" height="180" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true">
 </p>
 
 <!--************************************************** Trophy******************************************************* --> 
