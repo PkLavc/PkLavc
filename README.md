@@ -21,7 +21,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true">
   <img align="right" alt="Skyler - GIF" height="180" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true">
 </p>
+<!--*************************************************Snake********************************************************** --> 
 
+![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
 <!--************************************************** Trophy******************************************************* --> 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
 <!--**************************************** Support Me Here / Counter********************************************** --> 
