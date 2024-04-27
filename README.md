@@ -1,4 +1,4 @@
- <!-- **************************************************Intro***************************************************** -->
+<!-- **************************************************Intro***************************************************** -->
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=435&lines=Initiating...;Coding+the+future...)](https://git.io/typing-svg)
   
@@ -41,9 +41,6 @@
 
 ![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
 
-<!--************************************************** Trophy******************************************************* --> 
-
-   <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
    
 <!--**************************************** Support Me Here / Counter********************************************** --> 
 
