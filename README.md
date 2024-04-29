@@ -6,15 +6,15 @@
 
 <div style="display: inline_block"><br>
   <!-- Python -->
-  <img align="center" alt="Python" height="30" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/Python.svg">
   <!-- Java -->
-  <img align="center" alt="Java" height="30" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/Java.svg">
   <!-- C -->
   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
   <!-- C++ -->
-  <img align="center" alt="C++" height="30" width="40" src="https://techstack-generator.vercel.app/cpp-icon.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/C%2B%2B.svg">
   <!-- C# -->
-  <img align="center" alt="C#" height="30" width="40" src="https://techstack-generator.vercel.app/csharp-icon.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/CSharp.svg">
  </div>
 
 <!-- ************************************************** Bar ***************************************************** -->
