@@ -1,1 +1,5 @@
-https://techstack-generator.vercel.app/
+References
+==========
+
+- https://techstack-generator.vercel.app/
+- https://github.com/qkrdmstlr3/techstack-generator
