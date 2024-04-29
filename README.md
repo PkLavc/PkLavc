@@ -6,15 +6,15 @@
 
 <div style="display: inline_block"><br>
   <!-- Python -->
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/Python.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
   <!-- Java -->
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/Java.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
   <!-- C -->
   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
   <!-- C++ -->
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/C%2B%2B.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/C%2B%2B.svg">
   <!-- C# -->
-  <img align="center" alt="C#" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/d253b3d7edf90ff91e45ff6e2d8880c6ef3c129c/resources/Icons/CSharp.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/CSharp.svg">
  </div>
 
 <!-- ************************************************** Bar ***************************************************** -->
