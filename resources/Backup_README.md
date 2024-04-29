@@ -5,12 +5,17 @@
 <!-- ************************************************* Icons **************************************************** -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <!-- Python -->
+  <img align="center" alt="Python" height="30" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <!-- Java -->
+  <img align="center" alt="Java" height="30" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
+  <!-- C -->
+  <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
+  <!-- C++ -->
+  <img align="center" alt="C++" height="30" width="40" src="https://skillicons.dev/icons?i=cpp">
+  <!-- C# -->
+  <img align="center" alt="C#" height="30" width="40" src="https://techstack-generator.vercel.app/csharp-icon.svg">
+ </div>
 
 <!-- ************************************************** Bar ***************************************************** -->
 
