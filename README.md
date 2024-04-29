@@ -12,7 +12,7 @@
   <!-- C -->
   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
   <!-- C++ -->
-  <img align="center" alt="C++" height="30" width="40" src="https://skillicons.dev/icons?i=cpp">
+  <img align="center" alt="C++" height="30" width="40" src="https://techstack-generator.vercel.app/cpp-icon.svg">
   <!-- C# -->
   <img align="center" alt="C#" height="30" width="40" src="https://techstack-generator.vercel.app/csharp-icon.svg">
  </div>
