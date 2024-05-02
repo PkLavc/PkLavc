@@ -1,5 +1,4 @@
 References
 ==========
 
-- https://techstack-generator.vercel.app/
-- https://github.com/qkrdmstlr3/techstack-generator
+- https://github.com/devicons/devicon
