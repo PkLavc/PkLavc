@@ -25,13 +25,14 @@
 
  <!--**************************************** Top langs / GIF********************************************* --> 
  
-<p>
+<p style="max-height: 195px; overflow: hidden;">
   <!-- Seção de estatísticas de linguagem à esquerda -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" style="max-width: 100%; height: auto;" />
 
   <!-- GIF à direita -->
-  <img align="right"  height="195px" alt="Skyler - GIF" height="180" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true">
+  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true">
 </p>
+
 
 <!--*************************************************Snake********************************************************** --> 
 
