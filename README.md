@@ -5,10 +5,10 @@
 <!-- ************************************************* Icons **************************************************** -->
 
 <div style="display: inline_block"><br>
-  <!-- Python -->
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
   <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
+  <!-- Python -->
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
   <!-- C++ -->
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/C%2B%2B.svg">
  </div>
