@@ -20,8 +20,9 @@
 <!-- ************************************************ Contato *************************************************** --> 
 
 <div> 
-  <a href="https://www.instagram.com/pk_lavc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pklavc/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
+  <a href="mailto:patrickajm@gmail.com" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
 
  <!--**************************************** Top langs / GIF********************************************* --> 
  
