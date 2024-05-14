@@ -20,10 +20,10 @@
 <!-- ************************************************ Contato *************************************************** --> 
 
 <div> 
-  <a href="https://www.instagram.com/pklavc/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
-  <a href="mailto:patrickajm@gmail.com" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
-  <a href="https://join.skype.com/invite/uM9QOkb4l9Jk" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img alt="Linkedin" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
+  <a href="mailto:patrickajm@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
+  <a href="https://join.skype.com/invite/uM9QOkb4l9Jk" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a>
 </div>
  
  <!--**************************************** Top langs / GIF********************************************* --> 
