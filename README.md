@@ -23,7 +23,9 @@
   <a href="https://www.instagram.com/pklavc/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
   <a href="mailto:patrickajm@gmail.com" target="_blank"><img src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
-
+  <a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
+</div>
+ 
  <!--**************************************** Top langs / GIF********************************************* --> 
  
 <div style="display: flex; max-height: 195px; overflow: hidden; flex-wrap: nowrap;">
