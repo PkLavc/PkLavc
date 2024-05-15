@@ -29,16 +29,16 @@
   <a href="https://join.skype.com/invite/nR1otLAnIADl" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a>
 </div>
  
- <!--**************************************** Top langs / GIF********************************************* --> 
+ <!--**************************************** GitHub Stats / GIF********************************************* --> 
  
  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/>GitHub Stats:
 
-<div style="display: flex; max-height: 195px; overflow: hidden; flex-wrap: nowrap;">
-  <!-- Seção de estatísticas de linguagem à esquerda -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" style="max-width: 100%; height: auto; flex-shrink: 0;" />
-
-  <!-- GIF à direita -->
-  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+</div>
+ <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 </div>
  
 <!--**************************************** LinkedIn ********************************************* --> 
