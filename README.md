@@ -1,8 +1,11 @@
 <!-- **************************************************Intro***************************************************** -->
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=435&lines=Initiating...;Coding+the+future...)](https://git.io/typing-svg)
-  
+
 <!-- ************************************************* Icons **************************************************** -->
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp;Linguagens:
 
 <div style="display: inline_block"><br>
   <!-- Java -->
@@ -28,12 +31,42 @@
  
  <!--**************************************** Top langs / GIF********************************************* --> 
  
+ <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/>GitHub Stats:
+
 <div style="display: flex; max-height: 195px; overflow: hidden; flex-wrap: nowrap;">
   <!-- Seção de estatísticas de linguagem à esquerda -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" style="max-width: 100%; height: auto; flex-shrink: 0;" />
 
   <!-- GIF à direita -->
   <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
+</div>
+ 
+<!--**************************************** LinkedIn ********************************************* --> 
+ 
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/linkedin.gif?raw=true"/> LinkedIn Recommendations</summary>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<img align="center" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R1"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+</details>
 </div>
 
 <!--*************************************************Snake********************************************************** --> 
