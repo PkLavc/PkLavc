@@ -54,10 +54,9 @@
                 <summary>Engenharia da Computação - Newton Paiva</summary>
                 <div>
                     <details>
-                        <summary>Publicação 1</summary>
-                        <img src="your_image_path_here.jpg" alt="Engenharia da Computação" width="100" height="100"/>
-                        <h3>Título</h3>
-                        <p>Sua frase explicativa sobre Engenharia da Computação - Newton Paiva.</p>
+                        <summary>Certificados APONTE</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
+                        <p>Evento realizado no dia 29 de maio de 2019, com carga horária de 15 horas, promovido pelo Centro Universitário Newton Paiva.</p>
                     </details>
                     <details>
                         <summary>Publicação 2</summary>
