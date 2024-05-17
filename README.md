@@ -43,9 +43,11 @@
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+<br>
  
 <!--**************************************** Licenças e certificados ********************************************* --> 
- 
+
+<br>
 <div>
     <details>
         <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/> Licenças e certificados:</summary>
@@ -155,7 +157,8 @@
 </div>
 
 <!--**************************************** Linkedin ********************************************* --> 
- 
+
+<br>
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/> Linkedin:</summary>
