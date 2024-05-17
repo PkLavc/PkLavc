@@ -40,7 +40,7 @@
 <div>
 <img align="right" alt="GitHub Details" width="405px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
 <img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+<img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
 <br>
  
 <!--**************************************** Licenças e certificados ********************************************* --> 
