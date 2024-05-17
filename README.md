@@ -68,7 +68,7 @@
                     <details>
                         <summary>Newton Carreiras - Currículo e Mercado de Trabalho</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Newton/Newton%20Carreiras%20-%20Curr%C3%ADculo%20e%20Mercado%20de%20Trabalho_page-0001.jpg" alt="R1"/>
-                        <p>EEvento realizado no dia 14 de maio de 2019, com carga horária de 01 hora e 30 minutos, promovido pelo Setor de Pesquisa, Extensão e Inovação do Centro Universitário Newton Paiva.</p>
+                        <p>Evento realizado no dia 14 de maio de 2019, com carga horária de 01 hora e 30 minutos, promovido pelo Setor de Pesquisa, Extensão e Inovação do Centro Universitário Newton Paiva.</p>
                     </details>
                 </div>
             </details>
@@ -79,13 +79,13 @@
                         <summary>Inglês</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Certificado%20-%20Ingl%C3%AAs_page-0001.jpg" alt="R1"/>
                         <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.<br>
-Código da credencial e376fd98-e8ec-4b81-b322-5f4e518efd7a</p>
+Código da credencial: e376fd98-e8ec-4b81-b322-5f4e518efd7a</p>
                     </details>
                     <details>
                         <summary>Aprendizado acelerado</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Aprendizado%20acelerado_page-0001.jpg" alt="R1"/>
                         <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.<br>
-Código da credencial d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
+Código da credencial: d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     </details>
                 </div>
             </details>
