@@ -1,9 +1,7 @@
 <!-- **************************************************Intro***************************************************** -->
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=435&lines=Initiating...;Coding+the+future...)](https://git.io/typing-svg)
-</div>
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
-</div>
 
 <!-- ************************************************** Bar ***************************************************** -->
 
