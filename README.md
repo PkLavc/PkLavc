@@ -78,12 +78,14 @@
                     <details>
                         <summary>Inglês</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Certificado%20-%20Ingl%C3%AAs_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.</p>
+                        <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.<br>
+Código da credencial e376fd98-e8ec-4b81-b322-5f4e518efd7a</p>
                     </details>
                     <details>
                         <summary>Aprendizado acelerado</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Aprendizado%20acelerado_page-0001.jpg" alt="R1"/>
-                        <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.</p>
+                        <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.<br>
+Código da credencial d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     </details>
                 </div>
             </details>
@@ -94,6 +96,7 @@
                         <summary>Curso de Python com RPA e Criação de Projetos Reais</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Curso%20de%20Python%20com%20RPA%20e%20Cria%C3%A7%C3%A3o%20de%20Projetos%20Reais_page-0001.jpg" alt="R1"/>
                         <p>Certificado de conclusão de curso com carga horária de 221,5 horas, abordando Python, incluindo lógica de programação, POO, estruturas de dados, automação, interfaces gráficas, aprendizado de máquina, jogos com PyGame, manipulação de dados em Excel, Word e PDF, e envio de e-mails em massa.</p>
+                     <a href="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"><img height="20" alt="GIF" src="https://www.udemy.com/certificate/UC-64666e23-2b25-4e56-86b9-3fb813066e99/?raw=true"/> Credencial</a>
                     </details>
                     <details>
                         <summary>C# COMPLETO Programação Orientada a Objetos + Projetos</summary>
