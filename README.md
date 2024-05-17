@@ -78,14 +78,14 @@
                     <details>
                         <summary>Inglês</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Certificado%20-%20Ingl%C3%AAs_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.<br>
-Código da credencial: e376fd98-e8ec-4b81-b322-5f4e518efd7a</p>
+                        <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.</p>
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif?raw=true"/>&nbsp; Código da credencial: e376fd98-e8ec-4b81-b322-5f4e518efd7a</p>
                     </details>
                     <details>
                         <summary>Aprendizado acelerado</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Aprendizado%20acelerado_page-0001.jpg" alt="R1"/>
-                        <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.<br>
-Código da credencial: d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
+                        <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.</p>
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif?raw=true"/>&nbsp; Código da credencial: d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     </details>
                 </div>
             </details>
