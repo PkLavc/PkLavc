@@ -96,7 +96,7 @@
                         <summary>Curso de Python com RPA e Criação de Projetos Reais</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Curso%20de%20Python%20com%20RPA%20e%20Cria%C3%A7%C3%A3o%20de%20Projetos%20Reais_page-0001.jpg" alt="R1"/>
                         <p>Certificado de conclusão de curso com carga horária de 221,5 horas, abordando Python, incluindo lógica de programação, POO, estruturas de dados, automação, interfaces gráficas, aprendizado de máquina, jogos com PyGame, manipulação de dados em Excel, Word e PDF, e envio de e-mails em massa.</p>
-<a href="https://www.udemy.com/certificate/UC-64666e23-2b25-4e56-86b9-3fb813066e99/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
+<a href="https://www.udemy.com/certificate/UC-64666e23-2b25-4e56-86b9-3fb813066e99/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif?raw=true"/> Credencial</a>
                     </details>
                     <details>
                         <summary>C# COMPLETO Programação Orientada a Objetos + Projetos</summary>
