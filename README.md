@@ -73,6 +73,21 @@
                 </div>
             </details>
             <details>
+                <summary>Idiomas</summary>
+                <div>
+                    <details>
+                        <summary>Inglês</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Certificado%20-%20Ingl%C3%AAs_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Inglês, com carga horária estimada de 115 horas.</p>
+                    </details>
+                    <details>
+                        <summary>Aprendizado acelerado</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/5645da6ef66ff5b43f6556feb010c673ded4ee6c/resources/Docs/Certificados/Kultive/Aprendizado%20acelerado_page-0001.jpg" alt="R1"/>
+                        <p>Certificado do curso Aprendizado acelerado de idiomas, com carga horária estimada de 4h.</p>
+                    </details>
+                </div>
+            </details>
+            <details>
                 <summary>Tecnologia da Informação</summary>
                 <div>
                     <details>
@@ -133,7 +148,7 @@
                     <details>
                         <summary>Gestão de pessoas</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Certificado%20-%20Gest%C3%A3o%20de%20pessoas_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Gestão de pessoas, com duração de 8 horas..</p>
+                        <p>Certificado de conclusão do curso de Gestão de pessoas, com duração de 8 horas.</p>
                     </details>
                     <details>
                         <summary>Ética e integridade</summary>
