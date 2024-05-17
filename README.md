@@ -101,12 +101,14 @@ Código da credencial d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     <details>
                         <summary>C# COMPLETO Programação Orientada a Objetos + Projetos</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão de curso com carga horária de 38 horas, abordando C Sharp.</p>
+                        <p>Certificado de conclusão de curso com carga horária de 38 horas, abordando C Sharp.</p>            
+<a href="https://www.udemy.com/certificate/UC-f8aad172-13b9-440c-8538-830156f7fe29/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Algoritmos e Lógica de Programação</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20-%20O%20Curso%20COMPLETO_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão de curso com carga horária de 30,5 horas, abordando C, C++, C#, Python e Java.</p>
+                        <p>Certificado de conclusão de curso com carga horária de 30,5 horas, abordando C, C++, C#, Python e Java.</p>            
+<a href="https://www.udemy.com/certificate/UC-fb517bb8-c612-4cb4-83ab-0fb95a2715cb/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Treinamento Profissional em Informática</summary>
@@ -116,12 +118,14 @@ Código da credencial d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     <details>
                         <summary>Curso de Informática + Pacote Microsoft Office + Power BI</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Info-office-powerbi_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão de curso com carga horária de 217,5 horas, abrangendo ensinamentos detalhados sobre Microsoft Office (Word, Excel, PowerPoint e Outlook), navegação na Internet, utilização do Windows 10, Power BI, criação e manipulação de tabelas dinâmicas (PivotTable), conceitos de hardware e software, além de introdução a macros e VBA.</p>
+                        <p>Certificado de conclusão de curso com carga horária de 217,5 horas, abrangendo ensinamentos detalhados sobre Microsoft Office (Word, Excel, PowerPoint e Outlook), navegação na Internet, utilização do Windows 10, Power BI, criação e manipulação de tabelas dinâmicas (PivotTable), conceitos de hardware e software, além de introdução a macros e VBA.</p>            
+<a href="https://www.udemy.com/certificate/UC-837995da-bbf5-4ae9-a259-3b6cfee57ab6/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Curso de Excel do Básico ao Avançado, Macro e VBA + Power Bi</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Info-office-powerbi-2_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão de curso com carga horária de 268,5 horas.</p>
+                        <p>Certificado de conclusão de curso com carga horária de 268,5 horas.</p>            
+<a href="https://www.udemy.com/certificate/UC-ea45facb-d636-4cd8-a5b6-ab54c41d25bd/"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Photoshop</summary>
@@ -146,27 +150,31 @@ Código da credencial d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     <details>
                         <summary>Liderança</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Certificado%20-%20Lideran%C3%A7a%20-%20como%20desenvolver%20times%20de%20alta%20performance_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Liderança, com carga horária de 02 horas.</p>
+                        <p>Certificado de conclusão do curso de Liderança, com carga horária de 02 horas.</p>            
+<a href="https://ava.sebrae.com.br/?AT=434C20382B4CB3F19AC0C8704B375C6153FE"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Gestão de pessoas</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Certificado%20-%20Gest%C3%A3o%20de%20pessoas_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Gestão de pessoas, com duração de 8 horas.</p>
+                        <p>Certificado de conclusão do curso de Gestão de pessoas, com duração de 8 horas.</p>            
+<a href="https://certificados.sebrae.com.br/resultado/65f59b35f00ba81901abd1a7"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Ética e integridade</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/%C3%89tica%20e%20integridade_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Ética e integridade, com carga horária de 03 horas.</p>
+                        <p>Certificado de conclusão do curso de Ética e integridade, com carga horária de 03 horas.</p>          
+<a href="https://ava.sebrae.com.br/?AT=434C20382B4CB3F199C9C67B4B375C6755FE"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Gestão financeira</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Gest%C3%A3o%20financeira_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Gestão financeira, com carga horária de 03 horas.</p>
+                        <p>Certificado de conclusão do curso de Gestão financeira, com carga horária de 03 horas.</p>            
+<a href="https://ava.sebrae.com.br/?AT=434C20382B4CB3F19AC0C17F4B375C6255FC"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                     <details>
                         <summary>Recrutamento e seleção</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/certificado%20-%20Recrutamento%20e%20sele%C3%A7%C3%A3o_page-0001.jpg" alt="R1"/>
-                        <p>Certificado de conclusão do curso de Recrutamento e seleção, com carga horária de 03 horas.</p>
+                        <p>Certificado de conclusão do curso de Recrutamento e seleção, com carga horária de 03 horas.</p>       <a href="https://certificados.sebrae.com.br/resultado/66006ebfd806c21973d5a513"><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/4f4dcd83beeb28a75386c6562ae046f57411afc5/resources/Icons/Animated/document.gif"/> Credencial</a>
                     </details>
                 </div>
             </details>
