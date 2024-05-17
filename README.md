@@ -54,35 +54,70 @@
                 <summary>Engenharia da Computação - Newton Paiva</summary>
                 <div>
                     <details>
-                        <summary>Certificados APONTE</summary>
+                        <summary>APONTE</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
                         <p>Evento realizado no dia 29 de maio de 2019, com carga horária de 15 horas, promovido pelo Centro Universitário Newton Paiva.</p>
                     </details>
                     <details>
-                        <summary>Publicação 2</summary>
-                        <img src="your_image_path_here.jpg" alt="Engenharia da Computação" width="100" height="100"/>
-                        <h3>Título</h3>
-                        <p>Sua frase explicativa sobre Engenharia da Computação - Newton Paiva.</p>
+                        <summary>ODISSEIA</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Newton/ODISSEIA_page-0001.jpg" alt="R1"/>
+                        <p>Evento realizado no dia 28 de março de 2019, com a carga horária de 2 horas, promovido pela Pesquisa, Extensão e Inovação do Centro Universitário Newton Paiva.</p>
                     </details>
-                    <!-- Adicione mais publicações conforme necessário -->
+                    <details>
+                        <summary>Newton Carreiras - Currículo e Mercado de Trabalho</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Newton/Newton%20Carreiras%20-%20Curr%C3%ADculo%20e%20Mercado%20de%20Trabalho_page-0001.jpg" alt="R1"/>
+                        <p>EEvento realizado no dia 14 de maio de 2019, com carga horária de 01 hora e 30 minutos, promovido pelo Setor de Pesquisa, Extensão e Inovação do Centro Universitário Newton Paiva.</p>
+                    </details>
                 </div>
             </details>
             <details>
                 <summary>Tecnologia da Informação</summary>
                 <div>
                     <details>
-                        <summary>Publicação 1</summary>
-                        <img src="your_image_path_here.jpg" alt="Tecnologia da Informação" width="100" height="100"/>
-                        <h3>Título</h3>
-                        <p>Sua frase explicativa sobre Tecnologia da Informação.</p>
+                        <summary>Curso de Python com RPA e Criação de Projetos Reais</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Curso%20de%20Python%20com%20RPA%20e%20Cria%C3%A7%C3%A3o%20de%20Projetos%20Reais_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão de curso com carga horária de 221,5 horas, abordando Python, incluindo lógica de programação, POO, estruturas de dados, automação, interfaces gráficas, aprendizado de máquina, jogos com PyGame, manipulação de dados em Excel, Word e PDF, e envio de e-mails em massa.</p>
                     </details>
                     <details>
-                        <summary>Publicação 2</summary>
-                        <img src="your_image_path_here.jpg" alt="Tecnologia da Informação" width="100" height="100"/>
-                        <h3>Título</h3>
-                        <p>Sua frase explicativa sobre Tecnologia da Informação.</p>
+                        <summary>C# COMPLETO Programação Orientada a Objetos + Projetos</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão de curso com carga horária de 38 horas, abordando C Sharp.</p>
                     </details>
-                    <!-- Adicione mais publicações conforme necessário -->
+                    <details>
+                        <summary>Algoritmos e Lógica de Programação</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20-%20O%20Curso%20COMPLETO_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão de curso com carga horária de 30,5 horas, abordando C, C++, C#, Python e Java.</p>
+                    </details>
+                    <details>
+                        <summary>Treinamento Profissional em Informática</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Forma%C3%A7%C3%A3o.jpg" alt="R1"/>
+                        <p>Certificado do curso de treinamento profissional em informática com as disciplinas Sistemas Operacionais, Produção de documento, Apresentação Multimidia, Ambiente Web, Administração Financeira, Design gráfico, Desenvolvimento de Sites, Montagem e Manutenção, Redes Sociais, Projeto Final..</p>
+                    </details>
+                    <details>
+                        <summary>Curso de Informática + Pacote Microsoft Office + Power BI</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Info-office-powerbi_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão de curso com carga horária de 217,5 horas, abrangendo ensinamentos detalhados sobre Microsoft Office (Word, Excel, PowerPoint e Outlook), navegação na Internet, utilização do Windows 10, Power BI, criação e manipulação de tabelas dinâmicas (PivotTable), conceitos de hardware e software, além de introdução a macros e VBA.</p>
+                    </details>
+                    <details>
+                        <summary>Curso de Excel do Básico ao Avançado, Macro e VBA + Power Bi</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Udemy/Info-office-powerbi-2_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão de curso com carga horária de 268,5 horas.</p>
+                    </details>
+                    <details>
+                        <summary>Photoshop</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Photoshop.JPG" alt="R1"/>
+                        <p>Certificado do Treinamento Inicial - TIG com aptidão em Photoshop.</p>
+                    </details>
+                 <details>
+                        <summary>Nerovision</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Nerovision.JPG" alt="R1"/>
+                        <p>Certificado do Treinamento Inicial - TIG com aptidão em Nerovision.</p>
+                    </details>
+                    <details>
+                        <summary>Game Maker</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Game%20Maker.JPG" alt="R1"/>
+                        <p>ertificado do Treinamento Inicial - TIG com aptidão em Game Maker.</p>
+                    </details>
                 </div>
             </details>
             <details>
@@ -90,17 +125,14 @@
                 <div>
                     <details>
                         <summary>Publicação 1</summary>
-                        <img src="your_image_path_here.jpg" alt="Administração e Gestão" width="100" height="100"/>
-                        <h3>Título</h3>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
                         <p>Sua frase explicativa sobre Administração e Gestão.</p>
                     </details>
                     <details>
                         <summary>Publicação 2</summary>
-                        <img src="your_image_path_here.jpg" alt="Administração e Gestão" width="100" height="100"/>
-                        <h3>Título</h3>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
                         <p>Sua frase explicativa sobre Administração e Gestão.</p>
                     </details>
-                    <!-- Adicione mais publicações conforme necessário -->
                 </div>
             </details>
         </div>
