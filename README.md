@@ -38,9 +38,9 @@
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
 
 <div>
-<img align="right" alt="GitHub Details" width="405px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
 <img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+ <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
 <br>
  
 <!--**************************************** Licenças e certificados ********************************************* --> 
