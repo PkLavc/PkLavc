@@ -124,14 +124,29 @@
                 <summary>Administração e Gestão</summary>
                 <div>
                     <details>
-                        <summary>Publicação 1</summary>
-                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
-                        <p>Sua frase explicativa sobre Administração e Gestão.</p>
+                        <summary>Liderança</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Certificado%20-%20Lideran%C3%A7a%20-%20como%20desenvolver%20times%20de%20alta%20performance_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Liderança, com carga horária de 02 horas.</p>
                     </details>
                     <details>
-                        <summary>Publicação 2</summary>
-                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/65b71aed829e71e76983bec56399815c094c5e75/resources/Docs/Certificados/Newton/Certificados%20APONTE%20-2019-1_page-0001.jpg" alt="R1"/>
-                        <p>Sua frase explicativa sobre Administração e Gestão.</p>
+                        <summary>Gestão de pessoas</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Certificado%20-%20Gest%C3%A3o%20de%20pessoas_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Gestão de pessoas, com duração de 8 horas..</p>
+                    </details>
+                    <details>
+                        <summary>Ética e integridade</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/%C3%89tica%20e%20integridade_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Ética e integridade, com carga horária de 03 horas.</p>
+                    </details>
+                    <details>
+                        <summary>Gestão financeira</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/Gest%C3%A3o%20financeira_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Gestão financeira, com carga horária de 03 horas.</p>
+                    </details>
+                    <details>
+                        <summary>Recrutamento e seleção</summary>
+                        <img align="center" src="https://github.com/PkLavc/PkLavc/blob/701ff1df031ba210f41044a9539e65b162e271b6/resources/Docs/Certificados/Sebrae/certificado%20-%20Recrutamento%20e%20sele%C3%A7%C3%A3o_page-0001.jpg" alt="R1"/>
+                        <p>Certificado de conclusão do curso de Recrutamento e seleção, com carga horária de 03 horas.</p>
                     </details>
                 </div>
             </details>
