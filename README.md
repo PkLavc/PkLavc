@@ -113,7 +113,7 @@ Código da credencial: d5b16612-b867-4ab2-b5d9-211b1298f81a</p>
                     <details>
                         <summary>Treinamento Profissional em Informática</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Forma%C3%A7%C3%A3o.jpg" alt="R1"/>
-                        <p>Certificado do curso de treinamento profissional em informática com as disciplinas Sistemas Operacionais, Produção de documento, Apresentação Multimidia, Ambiente Web, Administração Financeira, Design gráfico, Desenvolvimento de Sites, Montagem e Manutenção, Redes Sociais, Projeto Final..</p>
+                        <p>Certificado do curso de treinamento profissional em informática com as disciplinas Sistemas Operacionais, Produção de documento, Apresentação Multimidia, Ambiente Web, Administração Financeira, Design gráfico, Desenvolvimento de Sites, Montagem e Manutenção, Redes Sociais, Projeto Final.</p>
                     </details>
                     <details>
                         <summary>Curso de Informática + Pacote Microsoft Office + Power BI</summary>
