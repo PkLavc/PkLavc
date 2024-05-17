@@ -47,29 +47,65 @@
 <!--**************************************** Licenças e certificados ********************************************* --> 
  
 <div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/> Licenças e certificados:</summary>
-<div>
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td>
-<img align="center" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R1"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-</div>
-</details>
+    <details>
+        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/> Licenças e certificados:</summary>
+        <div>
+            <details>
+                <summary>Engenharia da Computação - Newton Paiva</summary>
+                <div>
+                    <details>
+                        <summary>Publicação 1</summary>
+                        <img src="your_image_path_here.jpg" alt="Engenharia da Computação" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Engenharia da Computação - Newton Paiva.</p>
+                    </details>
+                    <details>
+                        <summary>Publicação 2</summary>
+                        <img src="your_image_path_here.jpg" alt="Engenharia da Computação" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Engenharia da Computação - Newton Paiva.</p>
+                    </details>
+                    <!-- Adicione mais publicações conforme necessário -->
+                </div>
+            </details>
+            <details>
+                <summary>Tecnologia da Informação</summary>
+                <div>
+                    <details>
+                        <summary>Publicação 1</summary>
+                        <img src="your_image_path_here.jpg" alt="Tecnologia da Informação" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Tecnologia da Informação.</p>
+                    </details>
+                    <details>
+                        <summary>Publicação 2</summary>
+                        <img src="your_image_path_here.jpg" alt="Tecnologia da Informação" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Tecnologia da Informação.</p>
+                    </details>
+                    <!-- Adicione mais publicações conforme necessário -->
+                </div>
+            </details>
+            <details>
+                <summary>Administração e Gestão</summary>
+                <div>
+                    <details>
+                        <summary>Publicação 1</summary>
+                        <img src="your_image_path_here.jpg" alt="Administração e Gestão" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Administração e Gestão.</p>
+                    </details>
+                    <details>
+                        <summary>Publicação 2</summary>
+                        <img src="your_image_path_here.jpg" alt="Administração e Gestão" width="100" height="100"/>
+                        <h3>Título</h3>
+                        <p>Sua frase explicativa sobre Administração e Gestão.</p>
+                    </details>
+                    <!-- Adicione mais publicações conforme necessário -->
+                </div>
+            </details>
+        </div>
+    </details>
 </div>
 
 <!--**************************************** Linkedin ********************************************* --> 
