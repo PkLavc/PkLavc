@@ -79,7 +79,7 @@
    
 <!--**************************************** Support Me Here / Counter********************************************** --> 
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=FFDD00&style=for-the-badge">
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
 
 <!--************************************************ Footer********************************************************* --> 
 
