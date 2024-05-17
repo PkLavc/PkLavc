@@ -11,7 +11,7 @@
 
 <!-- ************************************************* Icons **************************************************** -->
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp;**Linguagens**:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Linguagens**:
 <div style="display: inline_block">
   <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
@@ -25,7 +25,7 @@
 
 <br>
 <div>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b>Redes Sociais e Contatos</b>:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Redes Sociais e Contatos</b>:
  
 <div> 
   <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
@@ -37,7 +37,7 @@
  <!--**************************************** GitHub Stats ********************************************* --> 
  
  <br>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b>GitHub Stats</b>:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
@@ -50,7 +50,7 @@
 <br>
 <div>
     <details>
-        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b>Licenças e certificados:</b></summary>
+        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b> Licenças e certificados:</b></summary>
         <div>
             <details>
                 <summary><b>Engenharia da Computação - Newton Paiva</b></summary>
@@ -133,7 +133,7 @@
                     <details>
                         <summary>Game Maker</summary>
                         <img align="center" src="https://github.com/PkLavc/PkLavc/blob/1798b39ceb8ecb21f622e6ce0995d709b3c62637/resources/Docs/Certificados/Cedaspy/Game%20Maker.JPG" alt="R1"/>
-                        <p>ertificado do Treinamento Inicial - TIG com aptidão em Game Maker.</p>
+                        <p>Certificado do Treinamento Inicial - TIG com aptidão em Game Maker.</p>
                     </details>
                 </div>
             </details>
@@ -176,7 +176,7 @@
 <br>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/> Linkedin:</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/><b> Linkedin:</b></summary>
 <div>
 <table>
 <tr>
