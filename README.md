@@ -61,12 +61,12 @@
  <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
 <br>
  
-<!--**************************************** Licenças e certificados ********************************************* --> 
+<!--**************************************** Certificados ********************************************* --> 
 
 <br>
 <div>
     <details>
-        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b> Licenças e certificados:</b></summary>
+        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b> Certificados:</b></summary>
         <div>
             <details>
                 <summary><b>Engenharia da Computação - Newton Paiva</b></summary>
