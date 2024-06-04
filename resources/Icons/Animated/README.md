@@ -7,3 +7,5 @@ References
 - https://giphy.com/
 - https://gifer.com/
 - https://github.com/joaopauloaramuni
+- https://minzinn.itch.io/pixelvehicles
+- https://www.gifs.cc/air-craft.shtml
