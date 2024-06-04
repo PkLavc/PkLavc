@@ -1,10 +1,11 @@
 <!-- **************************************************Intro***************************************************** -->
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=Initiating...;The+future's+not+set;I'm+a+Computer+Engineering+student+and...;)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=falso&vCenter=falso&repeat=falso&random=falso&width=500&lines=+;+;+;Coding+the+future...;)](https://git.io/typing-svg)
 
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
+
  
 <!-- ************************************************** Bar ***************************************************** -->
 
@@ -187,7 +188,7 @@
 </div>
 
 <!--**************************************** Linkedin ********************************************* --> 
-
+<!--
 <details>
   <summary>
     <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/>
