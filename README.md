@@ -12,6 +12,7 @@
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 na Área de TI.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 na Área de Idiomas.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 na Área de Administração e Gestão.<br />
+ - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Extras.<br />
 </p>
 </div>
 
