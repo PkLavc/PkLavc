@@ -6,3 +6,4 @@ References
 - https://lordicon.com/
 - https://giphy.com/
 - https://gifer.com/
+- https://github.com/joaopauloaramuni
