@@ -6,13 +6,16 @@
 
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Licenças e certificados:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certificados e licenças:
 <p> 
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 da Newton Paiva, em Engenharia de Computação.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 na Área de TI.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 na Área de Idiomas.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 na Área de Administração e Gestão.<br />
  - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Extras.<br />
+ <br>
+ - <img height="20"src="https://img.itch.zone/aW1hZ2UvMjE4NDQxMi8xMjk0MTUwMy5naWY=/347x500/0gmzSJ.gif?raw=true"/> CNH AB.<br />
+ - <img height="20"src="https://www.gifs.cc/aircraft/harrier-jet-animated-1.gif?raw=true"/> CCT PPA.<br />
 </p>
 </div>
 
