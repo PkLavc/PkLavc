@@ -6,7 +6,15 @@
 
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 
- 
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Licenças e certificados:
+<p> 
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Na Newton Paiva, no curso de Engenharia de Computação.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 Na Área de Tecnologia da Informação.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 Na Área de Idiomas.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 Na Área de Administração e Gestão.<br />
+</p>
+</div>
+
 <!-- ************************************************** Bar ***************************************************** -->
 
   <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
