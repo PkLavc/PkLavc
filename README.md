@@ -14,8 +14,8 @@
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 na Área de Administração e Gestão.<br />
  - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Extras.<br />
  <br>
- - <img height="20"src="https://img.itch.zone/aW1hZ2UvMjE4NDQxMi8xMjk0MTUwMy5naWY=/347x500/0gmzSJ.gif?raw=true"/> CNH AB.<br />
- - <img width="20"src="https://www.gifs.cc/aircraft/prop-fighter-1.gif?raw=true"/> CCT PPA.<br />
+ - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> CNH AB.<br />
+ - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT PPA.<br />
 </p>
 </div>
 
