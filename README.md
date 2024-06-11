@@ -6,13 +6,13 @@
 
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certificados e licenças:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certifications and Licenses:
 <p> 
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 4 da Newton Paiva, em Engenharia de Computação.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 na Área de TI.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 na Área de Idiomas.<br />
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 na Área de Administração e Gestão.<br />
- - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Extras.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 4 in Computer Engineering from Newton Paiva University.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 in the IT Field.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 in Language Studies.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Administration and Management.<br />
+ - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Additional Certifications.<br />
  <br>
  - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> CNH AB.<br />
  - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT PPA.<br />
@@ -25,7 +25,7 @@
 
 <!-- ************************************************* Icons **************************************************** -->
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Linguagens**:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Languages**:
 <div style="display: inline_block">
   <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
@@ -41,7 +41,7 @@
 
 <br>
 <div>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Redes Sociais e Contatos</b>:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Social Networks and Contacts</b>:
  
 <div> 
   <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
@@ -66,10 +66,10 @@
 <br>
 <div>
     <details>
-        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b> Certificados:</b></summary>
+        <summary><img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/58f78f295b54e6944336b142aee0fbf808e2f9c4/resources/Icons/Animated/Medal.gif?raw=true"/><b> Certificates:</b></summary>
         <div>
             <details>
-                <summary><b>Engenharia da Computação - Newton Paiva</b></summary>
+                <summary><b>Computer Engineering - Newton Paiva</b></summary>
                 <div>
                     <details>
                         <summary>➢APONTE</summary>
@@ -89,7 +89,7 @@
                 </div>
             </details>
             <details>
-                <summary><b>Idiomas</b></summary>
+                <summary><b>Languages</b></summary>
                 <div>
                     <details>
                         <summary>➢Inglês</summary>
@@ -106,7 +106,7 @@
                 </div>
             </details>
             <details>
-                <summary><b>Tecnologia da Informação</b></summary>
+                <summary><b>Information Technology</b></summary>
                 <div>
                     <details>
                         <summary>➢Python com RPA e Criação de Projetos Reais</summary>
@@ -161,7 +161,7 @@
                 </div>
             </details>
             <details>
-                <summary><b>Administração e Gestão</b></summary>
+                <summary><b>Administration and Management</b></summary>
                 <div>
                     <details>
                         <summary>➢Liderança</summary>
