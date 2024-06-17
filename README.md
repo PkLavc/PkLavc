@@ -12,8 +12,8 @@
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Administration and Management.<br />
  - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Additional Certifications.<br />
  <br>
- - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> Driver's License Class AB.<br />
- - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT PPA.<br />
+ - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> Driver's License Class AB (car and motorcycle).<br />
+ - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT Private Pilot Airplane.<br />
 </p>
 </div>
 
