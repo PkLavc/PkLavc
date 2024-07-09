@@ -71,17 +71,11 @@
     <!--<img src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>--> 
   </div>
 </details>
-
-<!--*************************************************Snake********************************************************** --> 
-
-![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
-
    
 <!--**************************************** Support Me Here / Counter********************************************** --> 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
 
-<!--************************************************ Footer********************************************************* --> 
+<!--*************************************************Snake********************************************************** --> 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF00&section=footer"/>
-
+![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
