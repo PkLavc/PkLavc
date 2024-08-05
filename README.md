@@ -6,7 +6,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certifications and Licenses:
 <p> 
-- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Computer Engineering from Newton Paiva University.<br />
+- <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 7 in Computer Engineering from Newton Paiva University.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 in the IT Field.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 in Language Studies.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Administration and Management.<br />
