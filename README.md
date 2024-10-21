@@ -70,9 +70,9 @@
   </summary>
   <div>
     <img src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Docs/Newton/Resultado-Concurso-de-Bolsas-26-01-2019_page-0001.jpg" alt="R1"/>
-    <!--<img src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>--> 
+    <!--<img src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>
   </div>
-</details>
+</details>--> 
    
 <!--**************************************** Support Me Here / Counter********************************************** --> 
 
