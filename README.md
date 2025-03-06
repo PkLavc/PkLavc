@@ -4,18 +4,25 @@
 
  <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/>Certifications and Licenses:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/376f2e46635387a3f907a2d760e83094b0121c77/resources/Icons/Animated/Animation%20-%201741225001618.gif?raw=true"/> **Professional Experience**:
+<p>
+- <img width="20"src="https://github.com/PkLavc/PkLavc/blob/6390d38ec46e342f739051c8c89f80f8dc9efd2a/resources/Icons/Static/sapo.png"/> Engineering Intern at Loja do Sapo (October 2024 - Present).<br />
+- <img width="20"src="https://github.com/PkLavc/PkLavc/blob/2e82c6940130442567bd544e00d400234631d475/resources/Icons/Static/WR.png"/> Administrative Assistant at WR Auto Peças (2015 - Present).<br />
+</p>
+
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Animated/soulgem.gif?raw=true"/> **Certifications and Licenses**:
 <p> 
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 8 in Computer Engineering from Newton Paiva University.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 9 in the IT Field.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 2 in Language Studies.<br />
 - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 5 in Administration and Management.<br />
  - <img height="20"src="https://github.com/PkLavc/PkLavc/blob/53387430ce4bb0cc0a8d4bf89bad5621e715c6b7/resources/Icons/Static/platina.png"/> 3 Additional Certifications.<br />
+ 
  <br>
  - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/car.gif?raw=true"/> Driver's License Class AB (car and motorcycle).<br />
  - <img width="20"src="https://github.com/PkLavc/PkLavc/blob/121a08ef53d8e5b7343b65dd41fb3a1aa18c45e5/resources/Icons/Animated/jet2.gif?raw=true"/> CCT Private Pilot Airplane.<br />
 </p>
-</div>
+
 
 <!-- ************************************************** Bar ***************************************************** -->
 
