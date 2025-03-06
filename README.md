@@ -23,13 +23,28 @@
 
 <!-- ************************************************* Icons **************************************************** -->
 
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Languages**:
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Languages I use the most**:
 <div style="display: inline_block">
   <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
- <!-- Python -->
+  <!-- Python -->
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
- </div>
+</div>
+
+<br>
+
+<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Other languages (Courses & Certifications)**:
+<div style="display: inline_block">
+  <!-- C -->
+  <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
+  <!-- C++ -->
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/C%2B%2B.svg">
+  <!-- C# -->
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/CSharp.svg">
+  <!-- MySQL -->
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/3858f09437015d128efd371e67f6cb31961e1492/resources/Icons/Animated/MySQL.svg">
+</div>
+
   
 <!-- ************************************************ Contato *************************************************** --> 
 
@@ -41,7 +56,6 @@
   <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img alt="Linkedin" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
   <a href="mailto:patrickajm@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
-  <a href="https://join.skype.com/invite/nR1otLAnIADl" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a>
 </div>
  
  <!--**************************************** GitHub Stats ********************************************* --> 
