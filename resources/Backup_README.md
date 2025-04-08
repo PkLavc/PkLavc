@@ -58,6 +58,15 @@
 
 ![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
 
+<!--*********************************************** Pac Man ******************************************************** --> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <!--************************************************** Trophy******************************************************* --> 
 
    <img src="https://github-profile-trophy.vercel.app/?username=PkLavc&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">  
