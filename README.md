@@ -150,9 +150,6 @@ Centro Universitário Newton Paiva
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Social Networks and Contacts</b>:
  
 <div> 
-  <a href="https://www.instagram.com/pklavc/" target="_blank">
-    <img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg"/>
-  </a>
   <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
     <img alt="LinkedIn" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
   </a>
