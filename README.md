@@ -1,4 +1,4 @@
-<!-- **************************************************Intro***************************************************** -->
+<!-- ************************************************** Intro ***************************************************** -->
 
 ## Hi, I'm Patrick Araujo
 
@@ -22,48 +22,36 @@ Open to remote international opportunities.
 
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************* Professional Experience  **************************************************** -->
+<!-- ************************************************* Professional Experience **************************************************** -->
 
 ### Professional Experience
 
 • **Data Engineer (Mid-Level)** — Loja do Sapo  
-  *September 2025 – Present*  
-  - Lead process automation, data, and technology initiatives  
-  - Build and maintain data pipelines, APIs, and system integrations  
-  - Develop automation using Python, Deluge, and JavaScript  
-  - Create dashboards and KPIs in Looker Studio  
-  - Manage internal servers and technical infrastructure  
+*September 2025 – Present*  
+- Lead process automation, data, and technology initiatives  
+- Build and maintain data pipelines, APIs, and system integrations  
+- Develop automation using Python, Deluge, and JavaScript  
+- Create dashboards and KPIs in Looker Studio  
+- Manage internal servers and technical infrastructure  
 
 • **Engineering Intern** — Loja do Sapo  
-  *October 2024 – August 2025*  
-  - Developed automation scripts and data processing solutions  
-  - Built dashboards and analytics in Looker Studio  
-  - Worked with Python for data analysis and automation  
-  - Implemented API integrations and workflow automations  
+*October 2024 – August 2025*  
+- Developed automation scripts and data processing solutions  
+- Built dashboards and analytics in Looker Studio  
+- Worked with Python for data analysis and automation  
+- Implemented API integrations and workflow automations  
 
 • **Office Assistant** — WR Auto Peças  
-  *November 2015 – Present*  
-  - Developed and maintained automation and data analysis tools using Python  
-  - Provided technical support and system maintenance  
-  - Managed financial, administrative, and operational processes  
+*November 2015 – Present*  
+- Developed and maintained automation and data analysis tools using Python  
+- Provided technical support and system maintenance  
+- Managed financial, administrative, and operational processes  
 
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
-
-<!-- ************************************************* Education **************************************************** -->
-
-### Education
-
-**Bachelor’s Degree in Computer Engineering**  
-Centro Universitário Newton Paiva  
-2024 – 2028
-
-<!-- ************************************************** Bar ***************************************************** -->
-
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
 <!-- ************************************************* Core Skills **************************************************** -->
 
@@ -83,28 +71,91 @@ Centro Universitário Newton Paiva
 
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************* Contato **************************************************** -->
+<!-- ************************************************* Courses & Certifications **************************************************** -->
+
+<details>
+  <summary><strong>Courses & Certifications</strong></summary>
+
+  ### Data Engineering & Software Development
+  - Foundations: Data, Data, Everywhere (Google)
+  - Tools of the Trade: Linux and SQL (Google)
+  - Python with RPA and Real Project Creation (Udemy)
+  - Complete C# Object-Oriented Programming + Projects (Udemy)
+  - Algorithms and Programming Logic (Udemy)
+
+  ### Cloud, DevOps & Observability
+  - Datadog Foundation
+  - Cloud Computing Fundamentals
+  - Linux Fundamentals
+  - System Administration & Infrastructure Basics
+
+  ### Cybersecurity & Systems
+  - Foundations of Cybersecurity (Google)
+  - Connect and Protect: Networks and Network Security (Google)
+  - Play It Safe: Manage Security Risks (Google)
+
+  ### Data Analysis & Visualization
+  - Data Analysis & Analytics
+  - Dashboards, KPIs, and Looker Studio
+  - Power BI (Advanced, VBA & Macros)
+
+  ### Languages & Communication
+  - Business English (Parts 1, 2, 3) – Santander
+  - English Fundamentals – University of Pennsylvania
+  - English (Kultivi – 115h)
+
+  ### Leadership & Management
+  - Leadership and People Management (SEBRAE)
+  - Financial Management (SEBRAE)
+  - Recruitment and Selection (SEBRAE)
+  - Ethics and Integrity (SEBRAE)
+
+</details>
+
+<!-- ************************************************** Bar ***************************************************** -->
+
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+
+<!-- ************************************************* Education **************************************************** -->
+
+### Education
+
+**Bachelor’s Degree in Computer Engineering**  
+Centro Universitário Newton Paiva  
+2024 – 2028
+
+<!-- ************************************************** Bar ***************************************************** -->
+
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+
+<!-- ************************************************* Social Networks and Contacts **************************************************** -->
+
 <div>
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Social Networks and Contacts</b>:
  
 <div> 
-  <a href="https://www.instagram.com/pklavc/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank"><img alt="Linkedin" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
-  <a href="mailto:patrickajm@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
+  <a href="https://www.instagram.com/pklavc/" target="_blank">
+    <img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
+    <img alt="LinkedIn" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
+  </a>
+  <a href="mailto:patrickajm@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"/>
+  </a>
 </div>
 
 <!-- ************************************************** Bar ***************************************************** -->
 
-  <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
 <!-- ************************************************* Icons **************************************************** -->
+
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Languages I use the most**:
 <div style="display: inline_block">
-  <!-- Java -->
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Java.svg">
-  <!-- Python -->
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/Python.svg">
 </div>
 
@@ -112,49 +163,30 @@ Centro Universitário Newton Paiva
 
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/skills.gif?raw=true"/>&nbsp; **Other languages (Courses & Certifications)**:
 <div style="display: inline_block">
-  <!-- C -->
   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
-  <!-- C++ -->
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/C%2B%2B.svg">
-  <!-- C# -->
   <img align="center" alt="C#" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/c903152892186bdd5f3214ab48503865982cd337/resources/Icons/Animated/CSharp.svg">
-  <!-- MySQL -->
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/PkLavc/PkLavc/blob/3858f09437015d128efd371e67f6cb31961e1492/resources/Icons/Animated/MySQL.svg">
 </div>
- 
- <!--**************************************** GitHub Stats ********************************************* --> 
- 
- <br>
+
+<!-- **************************************** GitHub Stats **************************************** -->
+
+<br>
 <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/><b> GitHub Stats</b>:
 
 <div>
-<img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
- <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
-<br>
+  <img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
+  <img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
+  <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
+</div>
 
-<!--**************************************** Linkedin ********************************************* --> 
-<!--
-<details>
-  <summary>
-    <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Icons/Animated/linkedin.gif?raw=true"/>
-    <b> Linkedin:</b>
-  </summary>
-  <div>
-    <img src="https://github.com/PkLavc/PkLavc/blob/db3ed46a0f9edcd53a8a3e1dbba39d48e4d667fa/resources/Docs/Newton/Resultado-Concurso-de-Bolsas-26-01-2019_page-0001.jpg" alt="R1"/>
-    <!--<img src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Rainbow.gif?raw=true" alt="R2"/>
-  </div>
-</details>--> 
-   
-<!--**************************************** Support Me Here / Counter********************************************** --> 
+<!-- **************************************** Support / Counter **************************************** -->
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc) <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc)
+<img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
 
-<!--*************************************************Snake********************************************************** --> 
-<!--
-![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
+<!-- **************************************** Contribution Graph **************************************** -->
 
-<!--*************************************************Snake********************************************************** --> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph.svg">
