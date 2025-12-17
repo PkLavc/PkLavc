@@ -2,23 +2,23 @@
 
 ## Hi, I'm Patrick Araujo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=700&lines=Mid-Level+Data+Engineer+%26+Software+Engineer;Python+%7C+SQL+%7C+Data+Pipelines+%7C+APIs;Process+Automation+%26+System+Integrations;Open+to+remote+international+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=760&lines=Software+Engineer+%7C+Contractor;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;Backend+Development+%7C+Automation+%7C+Integrations;Open+to+Remote+International+Contracts)](https://git.io/typing-svg)
 
 <img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
 
 ### About Me
 
-Mid-Level Data Engineer and Software Engineer with a strong background in
-process automation, data pipelines, system integrations, and backend development.
+Software Engineer (Contractor) with a strong background in backend development,
+process automation, data pipelines, and system integrations.
 
-Currently working as a Data Engineer, leading automation, data, and technology
-initiatives using Python, SQL, Deluge, JavaScript, and APIs.
-Experienced in building end-to-end solutions, dashboards, KPIs, and managing
-internal servers and production systems.
+Currently working on contract-based projects, delivering automation, backend
+services, APIs, and cloud-based solutions using Python, JavaScript, SQL, and AWS.
+Experienced in building end-to-end systems, internal tools, dashboards, KPIs,
+and maintaining production environments and servers.
 
-Computer Engineering student with a solid engineering mindset and real-world
+Computer Engineering student with a solid engineering mindset and hands-on
 experience delivering scalable, reliable, and efficient solutions.
-Open to remote international opportunities.
+Open to remote international contracts.
 
 <!-- ************************************************** Bar ***************************************************** -->
 
@@ -28,7 +28,7 @@ Open to remote international opportunities.
 
 ### Professional Experience
 
-• **Data Engineer (Mid-Level)** — Loja do Sapo  
+• **Software Engineer (Contractor)** — Loja do Sapo  
 *September 2025 – Present*  
 - Lead process automation, data, and technology initiatives  
 - Build and maintain data pipelines, APIs, and system integrations  
