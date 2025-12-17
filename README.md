@@ -144,20 +144,24 @@ Centro Universitário Newton Paiva
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************* Social Networks and Contacts **************************************************** -->
+<!-- ************************************************* Contacts **************************************************** -->
 
 <div>
-<img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/><b> Social Networks and Contacts</b>:
- 
-<div> 
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
-    <img alt="LinkedIn" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
-  </a>
-  <a href="mailto:patrickajm@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"/>
-  </a>
+  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/>
+  <b> Contact</b>
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
+    <img alt="LinkedIn" height="28"
+         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:patrickajm@gmail.com" target="_blank">
+    <img alt="Email" height="28"
+         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"/>
+  </a>
+</div>
 <!-- ************************************************** Bar ***************************************************** -->
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
