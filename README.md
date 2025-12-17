@@ -57,17 +57,31 @@ Open to remote international opportunities.
 
 ### Core Skills
 
-- Python
-- Java
-- Deluge
-- JavaScript
-- SQL
-- Data Engineering
-- Data Pipelines
-- Process Automation
-- APIs and System Integrations
+**Programming Languages**
+- Python, Java, JavaScript, SQL, Deluge
+
+**Data Engineering**
+- Data Pipelines (ETL/ELT)
+- Data Processing & Automation
+- Data Modeling
+- SQL Optimization
+
+**Backend & Integrations**
+- RESTful APIs
+- System Integrations
+- Workflow Automation
+- Third-Party APIs
+
+**Analytics & Visualization**
 - Looker Studio
-- Servers and Infrastructure
+- Dashboards & KPIs
+- Data Analysis
+
+**Infrastructure & Systems**
+- Linux Fundamentals
+- Server Management
+- Basic Cloud Concepts
+
 
 <!-- ************************************************** Bar ***************************************************** -->
 
