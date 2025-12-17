@@ -78,39 +78,39 @@ Open to remote international opportunities.
 <details>
   <summary><strong>Courses & Certifications</strong></summary>
 
-  ### Data Engineering & Software Development
-  - Foundations: Data, Data, Everywhere (Google)
-  - Tools of the Trade: Linux and SQL (Google)
-  - Python with RPA and Real Project Creation (Udemy)
-  - Complete C# Object-Oriented Programming + Projects (Udemy)
-  - Algorithms and Programming Logic (Udemy)
+### Data Engineering & Software Development
+- Foundations: Data, Data, Everywhere — Google
+- Tools of the Trade: Linux and SQL — Google
+- Python with RPA and Real Project Creation — Udemy
+- Complete C# Object-Oriented Programming + Projects — Udemy
+- Algorithms and Programming Logic — Udemy
 
-  ### Cloud, DevOps & Observability
-  - Datadog Foundation
-  - Cloud Computing Fundamentals
-  - Linux Fundamentals
-  - System Administration & Infrastructure Basics
+### Cloud, DevOps & Observability
+- Datadog Foundation — Datadog
+- Cloud Computing Fundamentals — Udemy
+- Linux Fundamentals — Udemy
+- System Administration & Infrastructure Basics — Udemy
 
-  ### Cybersecurity & Systems
-  - Foundations of Cybersecurity (Google)
-  - Connect and Protect: Networks and Network Security (Google)
-  - Play It Safe: Manage Security Risks (Google)
+### Cybersecurity & Systems
+- Foundations of Cybersecurity — Google
+- Connect and Protect: Networks and Network Security — Google
+- Play It Safe: Manage Security Risks — Google
 
-  ### Data Analysis & Visualization
-  - Data Analysis & Analytics
-  - Dashboards, KPIs, and Looker Studio
-  - Power BI (Advanced, VBA & Macros)
+### Data Analysis & Visualization
+- Data Analysis & Analytics — Udemy
+- Dashboards, KPIs, and Looker Studio — Udemy
+- Power BI (Advanced, VBA & Macros) — Udemy
 
-  ### Languages & Communication
-  - Business English (Parts 1, 2, 3) – Santander
-  - English Fundamentals – University of Pennsylvania
-  - English (Kultivi – 115h)
+### Languages & Communication
+- Business English (Parts 1, 2, 3) — Santander
+- English Fundamentals — University of Pennsylvania
+- English — Kultivi
 
-  ### Leadership & Management
-  - Leadership and People Management (SEBRAE)
-  - Financial Management (SEBRAE)
-  - Recruitment and Selection (SEBRAE)
-  - Ethics and Integrity (SEBRAE)
+### Leadership & Management
+- Leadership and People Management — SEBRAE
+- Financial Management — SEBRAE
+- Recruitment and Selection — SEBRAE
+- Ethics and Integrity — SEBRAE
 
 </details>
 
