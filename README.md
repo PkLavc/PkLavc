@@ -31,6 +31,14 @@ Open to remote international contracts.
 - Create dashboards and KPIs in Looker Studio  
 - Manage internal servers and technical infrastructure  
 
+• **Software Engineering Collaboration** — iCaiu
+*October 2025 – Present*
+- Technical collaboration supporting software, data, and automation initiatives
+- Supporting automation and workflow improvements across internal systems
+- Assisting with data processing, system integrations, and reporting solutions
+- Collaborating on backend services and REST API integrations
+- Providing hands-on technical support for operational and technology-driven processes
+
 • **Engineering Intern** — Loja do Sapo  
 *October 2024 – August 2025*  
 - Developed automation scripts and data processing solutions  
