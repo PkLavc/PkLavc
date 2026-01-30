@@ -39,7 +39,7 @@ Open to remote international contracts.
 - Create dashboards and KPIs in Looker Studio  
 - Manage internal servers and technical infrastructure
 
-**Engineering Intern**
+**Engineering Intern**  
 *October 2024 – August 2025*  
 
 - Developed automation scripts and data processing solutions  
