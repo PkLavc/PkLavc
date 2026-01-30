@@ -39,7 +39,7 @@ Open to remote international contracts.
 - Implemented API integrations and workflow automations  
 
 • **Office Assistant** — WR Auto Peças  
-*November 2015 – Present*  
+*November 2015 – March 2026*  
 - Developed and maintained automation and data analysis tools using Python  
 - Provided technical support and system maintenance  
 - Managed financial, administrative, and operational processes  
