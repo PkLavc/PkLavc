@@ -37,8 +37,15 @@ Open to remote international contracts.
 - Build and maintain data pipelines, APIs, and system integrations  
 - Develop automation using Python, Deluge, and JavaScript  
 - Create dashboards and KPIs in Looker Studio  
-- Manage internal servers and technical infrastructure  
+- Manage internal servers and technical infrastructure
 
+**Engineering Intern**
+*October 2024 – August 2025*  
+
+- Developed automation scripts and data processing solutions  
+- Built dashboards and analytics in Looker Studio  
+- Worked with Python for data analysis and automation  
+- Implemented API integrations and workflow automations  
 <br clear="left"/>
 
 <img
@@ -55,24 +62,7 @@ Open to remote international contracts.
 - Supporting automation and workflow improvements across internal systems  
 - Assisting with data processing, system integrations, and reporting solutions  
 - Collaborating on backend services and REST API integrations  
-- Providing hands-on technical support for operational and technology-driven processes  
-
-<br clear="left"/>
-
-<img
-  align="left"
-  height="42"
-  src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png"
-  style="margin-right: 10px;"
-/>
-
-**Engineering Intern** — Loja do Sapo  
-*October 2024 – August 2025*  
-
-- Developed automation scripts and data processing solutions  
-- Built dashboards and analytics in Looker Studio  
-- Worked with Python for data analysis and automation  
-- Implemented API integrations and workflow automations  
+- Providing hands-on technical support for operational and technology-driven processes
 
 <br clear="left"/>
 
