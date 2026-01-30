@@ -23,34 +23,75 @@ Open to remote international contracts.
 
 ### Professional Experience
 
-• **Software Engineer (Contractor)** — Loja do Sapo  
+<img
+  align="left"
+  height="42"
+  src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png"
+  style="margin-right: 10px;"
+/>
+
+**Software Engineer (Contractor)** — Loja do Sapo  
 *September 2025 – Present*  
+
 - Lead process automation, data, and technology initiatives  
 - Build and maintain data pipelines, APIs, and system integrations  
 - Develop automation using Python, Deluge, and JavaScript  
 - Create dashboards and KPIs in Looker Studio  
 - Manage internal servers and technical infrastructure  
 
-• **Software Engineering Collaboration** — iCaiu  
-*October 2025 – Present*
-- Technical collaboration supporting software, data, and automation initiatives
-- Supporting automation and workflow improvements across internal systems
-- Assisting with data processing, system integrations, and reporting solutions
-- Collaborating on backend services and REST API integrations
-- Providing hands-on technical support for operational and technology-driven processes
+<br clear="left"/>
 
-• **Engineering Intern** — Loja do Sapo  
+<img
+  align="left"
+  height="42"
+  src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-icaiu.png"
+  style="margin-right: 10px;"
+/>
+
+**Software Engineering Collaboration** — iCaiu  
+*October 2025 – Present*
+
+- Technical collaboration supporting software, data, and automation initiatives  
+- Supporting automation and workflow improvements across internal systems  
+- Assisting with data processing, system integrations, and reporting solutions  
+- Collaborating on backend services and REST API integrations  
+- Providing hands-on technical support for operational and technology-driven processes  
+
+<br clear="left"/>
+
+<img
+  align="left"
+  height="42"
+  src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png"
+  style="margin-right: 10px;"
+/>
+
+**Engineering Intern** — Loja do Sapo  
 *October 2024 – August 2025*  
+
 - Developed automation scripts and data processing solutions  
 - Built dashboards and analytics in Looker Studio  
 - Worked with Python for data analysis and automation  
 - Implemented API integrations and workflow automations  
 
-• **Office Assistant** — WR Auto Peças  
+<br clear="left"/>
+
+<img
+  align="left"
+  height="42"
+  src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-wr.png"
+  style="margin-right: 10px;"
+/>
+
+**Office Assistant** — WR Auto Peças  
 *November 2015 – March 2026*  
+
 - Developed and maintained automation and data analysis tools using Python  
 - Provided technical support and system maintenance  
 - Managed financial, administrative, and operational processes  
+
+<br clear="left"/>
+
 
 <!-- ************************************************** Bar ***************************************************** -->
 
