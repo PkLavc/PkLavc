@@ -50,7 +50,7 @@ Open to remote international contracts.
 <p>
   <img align="left" width="85" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-icaiu.png" style="margin-right: 15px; margin-top: 5px;" />
   <b>Software Engineering Collaboration</b> — iCaiu<br>
-  <i>October 2025 – Present</i>
+  <i>March 2025 – Present</i>
 </p>
 
 - Technical collaboration supporting software, data, and automation initiatives
