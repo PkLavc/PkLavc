@@ -31,7 +31,7 @@ Open to remote international contracts.
 - Create dashboards and KPIs in Looker Studio  
 - Manage internal servers and technical infrastructure  
 
-• **Software Engineering Collaboration** — iCaiu
+• **Software Engineering Collaboration** — iCaiu  
 *October 2025 – Present*
 - Technical collaboration supporting software, data, and automation initiatives
 - Supporting automation and workflow improvements across internal systems
