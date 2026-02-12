@@ -2,15 +2,14 @@
 
 ## Hi, I'm Patrick Araujo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=760&lines=Software+Engineer+%7C+Contractor;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;Backend+Development+%7C+Automation+%7C+Integrations;Open+to+Remote+International+Contracts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Backend+%7C+Platform+%7C+Quality+Engineering;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;Automation+%7C+Cloud+%7C+System+Integrations)](https://git.io/typing-svg)
 
 ### About Me
 
-Contract Software Engineer and Computer Engineering student delivering **custom software solutions**, including **backend systems, workflow automation, APIs, dashboards, data pipelines, and web applications**. I build **scalable, maintainable, and efficient systems** that streamline operations and optimize workflows.  
+Contract Software Engineer and Computer Engineering student delivering custom software solutions with focus on backend systems platform engineering quality automation APIs and cloud based architectures I work with scalable maintainable and efficient systems that support business critical operations
 
-Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS fundamentals**, with hands-on experience in **automation, system integrations, reporting tools, and internal platforms**. Previous roles in administration and operations strengthened my **organization, accountability, and process optimization skills**.  
-
-**Open to remote international contracts**, providing practical, reliable, and business-focused solutions for teams and organizations of any size.
+Experienced with Python JavaScript SQL REST APIs and AWS with hands on work in automation system integrations CI CD workflows monitoring and internal platforms I have strong analytical skills quality driven mindset and experience collaborating with multidisciplinary teams in agile environments
+  
 
 <!-- ************************************************** Bar ***************************************************** -->
 
@@ -26,20 +25,20 @@ Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS funda
   <i>September 2025 – Present</i>
 </p>
 
-- Lead process automation, data, and technology initiatives
-- Build and maintain automation workflows, APIs, and system integrations
-- Develop automation using Python, Deluge, and JavaScript
-- Create dashboards and KPIs in Looker Studio
-- Manage internal servers and technical infrastructure
+- Lead software engineering initiatives focused on automation and internal platforms
+- Develop and maintain backend systems, APIs, and integrations
+- Implement automated workflows using Python, JavaScript, and Deluge
+- Build data pipelines, dashboards, and operational KPIs
+- Collaborate on infrastructure support and system reliability
 
 <br>
 
 **Engineering Intern**  
 *October 2024 – August 2025*
-- Developed automation scripts and data processing solutions
-- Built dashboards and analytics in Looker Studio
-- Worked with Python for data analysis and automation
-- Implemented API integrations and workflow automations
+- Developed software solutions for automation and data processing using Python
+- Built data dashboards and analytical reports using Looker Studio
+- Designed and implemented API integrations and workflow automations
+- Supported data analysis and automation initiatives in production environments
 
 <br clear="left"/>
 <br/>
@@ -50,11 +49,11 @@ Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS funda
   <i>March 2025 – Present</i>
 </p>
 
-- Technical collaboration supporting software, data, and automation initiatives
-- Supporting automation and workflow improvements across internal systems
-- Assisting with data processing, system integrations, and reporting solutions
-- Collaborating on backend services and REST API integrations
-- Providing hands-on technical support for operational and technology-driven processes
+- Technical collaboration on software engineering, data, and automation initiatives
+- Contributed to automation and workflow improvements across internal systems
+- Developed and supported data processing, system integrations, and reporting solutions
+- Collaborated on backend services and REST API integrations
+- Provided hands-on technical support for operational and technology-driven processes
 
 <br clear="left"/>
 <br/>
@@ -65,10 +64,10 @@ Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS funda
   <i>November 2015 – March 2026</i>
 </p>
 
-- Developed and maintained automation and data analysis tools using Python
-- Provided technical support and system maintenance
+- Developed and maintained automation and data analysis tools using Python to optimize administrative and financial processes
+- Provided technical support and system maintenance for internal operations
 - Managed financial, administrative, and operational processes
-- Built and maintained internal and institutional web pages using HTML to support reports and operational workflows
+- Built and maintained internal web pages using HTML to support reporting and operational workflows
 
 <br clear="left"/>
 
@@ -80,29 +79,36 @@ Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS funda
 
 ### Core Skills
 
-**Programming Languages**
-- Python, JavaScript, SQL, Java, Deluge
+**Programming & Scripting**
+- Python
+- JavaScript
+- SQL
+- Java
+- Deluge
 
-**Automation & Data Processing**
+**Automation & CI/CD**
+- Process Automation
 - Workflow Automation
-- Data Processing
 - ETL Concepts
-- SQL Optimization
+- CI/CD Fundamentals
 
-**Backend & Integrations**
-- RESTful APIs
+**Backend & APIs**
+- REST APIs
+- API Development
 - System Integrations
-- Third-Party APIs
+- Third-Party Integrations
 
-**Analytics & Visualization**
-- Looker Studio
-- Dashboards & KPIs
+**Data & Analytics**
 - Data Analysis
+- SQL Optimization
+- Dashboards & KPIs
+- Looker Studio
 
-**Infrastructure & Systems**
+**Cloud & Infrastructure**
+- AWS Fundamentals
 - Linux Fundamentals
 - Server Management
-- Basic Cloud Concepts
+- Basic Cloud Architecture
 
 
 <!-- ************************************************** Bar ***************************************************** -->
