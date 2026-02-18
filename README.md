@@ -175,7 +175,7 @@ Centro Universitário Newton Paiva
 <!-- ************************************************* Contacts **************************************************** -->
 
 <div>
-  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc/blob/a696ee15d9d496f689e7d3536bad2defe828d9a0/resources/Icons/Animated/link(2).gif?raw=true"/>
+  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc.github.io/blob/26012177cc013e7e7aa0c1cd35ce8f32466f9695/images/link.gif?raw=true"/>
   <b> Contact</b>
 </div>
 <br>
