@@ -71,26 +71,45 @@ As a **Computer Engineering student**, I excel at translating complex business r
 
 ### Core Skills
 
-**💻 Programming & Scripting**
+<h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/coding.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Programming & Scripting
+</h4>
+
 - **Languages:** Python, JavaScript, SQL, Deluge
 - **Technical Base:** C#, Java, C++, OOP, Data Structures
 
-**⚙️ Automation & QA**
+<h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Automation & QA
+</h4>
+
 - **Integrations:** REST APIs, API Design, Webhooks, Third-Party Services
 - **Quality:** Functional Testing, SDET, Process Automation (n8n, Zoho)
 
-**☁️ Infrastructure & Cloud**
+<h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Infrastructure & Cloud
+</h4>
+
 - **Cloud:** AWS & Azure Fundamentals, CI/CD Fundamentals
 - **Systems:** Linux (Server Management), Shell Scripting, Docker
 
-**📊 Data & Analytics**
+<h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/data.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Data & Analytics
+</h4>
+
 - **BI:** Looker Studio, Power BI, KPI Dashboards
 - **Engineering:** Data Pipelines, ETL, PostgreSQL, SQL Optimization
 
-**🛠️ Computer Engineering**
+<h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/computer.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Computer Engineering
+</h4>
+
 - **Hardware:** Computer Architecture, Digital Systems, Electronics
 - **Systems:** Embedded Systems, Low-Level Programming (C/C++)
-
 
 <!-- ************************************************** Bar ***************************************************** -->
 
