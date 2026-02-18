@@ -2,13 +2,13 @@
 
 ## Hi, I'm Patrick Araujo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Backend+%7C+Platform+%7C+Quality+Engineering;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;Automation+%7C+Cloud+%7C+System+Integrations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Backend+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;System+Integrations+%7C+SDET+%7C+Platform)](https://git.io/typing-svg)
 
 ### About Me
 
-Contract Software Engineer and Computer Engineering student delivering custom software solutions with focus on backend systems platform engineering quality automation APIs and cloud based architectures I work with scalable maintainable and efficient systems that support business critical operations
+Software Engineer specializing in **Backend Development, Process Automation, and System Integration**. I have a proven track record in architecting solutions using Python, JavaScript, and REST APIs, with a strong focus on scalability and data reliability (**QA/SDET**). 
 
-Experienced with Python JavaScript SQL REST APIs and AWS with hands on work in automation system integrations CI CD workflows monitoring and internal platforms I have strong analytical skills quality driven mindset and experience collaborating with multidisciplinary teams in agile environments
+As a **Computer Engineering student**, I excel at translating complex business rules into automated workflows and high-precision dashboards. With hands-on experience in server configuration, data pipelines, and Cloud fundamentals (AWS/Azure), I am dedicated to delivering robust software solutions that drive operational efficiency.
   
 
 <!-- ************************************************** Bar ***************************************************** -->
@@ -21,56 +21,48 @@ Experienced with Python JavaScript SQL REST APIs and AWS with hands on work in a
 
 <p>
   <img align="left" height="42" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png" style="margin-right: 15px;" />
-  <b>Software Engineer (Contractor)</b> — Loja do Sapo<br>
+  <b>Software Engineer (Backend & Automation)</b> — Loja do Sapo<br>
   <i>September 2025 – Present</i>
 </p>
 
-- Lead software engineering initiatives focused on automation and internal platforms
-- Develop and maintain backend systems, APIs, and integrations
-- Implement automated workflows using Python, JavaScript, and Deluge
-- Build data pipelines, dashboards, and operational KPIs
-- Collaborate on infrastructure support and system reliability
+- **Technical Leadership:** Lead architect for end-to-end automation solutions and system integrations, ensuring 100% functional integrity.
+- **API Integrations:** Developing and maintaining complex REST API integrations (Google Cloud, Zoho, and third-party services) for business-critical workflows.
+- **Infrastructure:** Technical owner for internal backend applications and server configuration, monitoring stability and performance.
+- **Data Engineering:** Developing advanced data pipelines and KPI dashboards (Looker Studio) to support executive decision-making.
 
 <br>
 
-**Engineering Intern**  
-*October 2024 – August 2025*
-- Developed software solutions for automation and data processing using Python
-- Built data dashboards and analytical reports using Looker Studio
-- Designed and implemented API integrations and workflow automations
-- Supported data analysis and automation initiatives in production environments
+**Software Developer (Data & Workflows)** *October 2024 – August 2025*
+- **Low-Code Automation:** Implemented business rules and validated workflows using Deluge, Python, and JavaScript.
+- **Business Intelligence:** Created data architectures for Looker Studio reporting, ensuring accuracy of real-time operational metrics.
 
 <br clear="left"/>
 <br/>
 
 <p>
   <img align="left" width="85" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-icaiu.png" style="margin-right: 15px; margin-top: 5px;" />
-  <b>Software Engineering Collaboration - Automation & Data</b> — iCaiu<br>
+  <b>Software Engineer (Systems Integration)</b> — iCaiu<br>
   <i>March 2025 – Present</i>
 </p>
 
-- Technical collaboration on software engineering, data, and automation initiatives
-- Contributed to automation and workflow improvements across internal systems
-- Developed and supported data processing, system integrations, and reporting solutions
-- Collaborated on backend services and REST API integrations
-- Provided hands-on technical support for operational and technology-driven processes
+- **Workflow Optimization:** Engineered internal automation processes, ensuring system interoperability and reducing bottlenecks.
+- **Quality Assurance (QA/SDET):** Performing functional testing, identifying API-layer bugs, and validating technical requirements.
+- **Specialized Support:** Diagnosing high-complexity technical failures and implementing preventive fixes for seamless data flows.
 
 <br clear="left"/>
 <br/>
 
 <p>
   <img align="left" width="85" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-wr.png" style="margin-right: 15px; margin-top: 5px;" />
-  <b>Office Assistant</b> — WR Auto Peças<br>
-  <i>November 2015 – March 2026</i>
+  <b>Operations & Tech Support Specialist</b> — WR Auto Peças<br>
+  <i>November 2015 – February 2026</i>
 </p>
 
-- Developed and maintained automation and data analysis tools using Python to optimize administrative and financial processes
-- Provided technical support and system maintenance for internal operations
-- Managed financial, administrative, and operational processes
-- Built and maintained internal web pages using HTML to support reporting and operational workflows
+- **Process Automation:** Developed internal data analysis tools and administrative automation scripts using Python.
+- **Web Development:** Built and maintained the company’s institutional website and internal digital support tools using HTML/CSS.
+- **System Administration:** Managed fiscal and administrative systems, ensuring technical compliance and data integrity over a 10-year tenure.
 
 <br clear="left"/>
-
 <!-- ************************************************** Bar ***************************************************** -->
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
@@ -79,36 +71,25 @@ Experienced with Python JavaScript SQL REST APIs and AWS with hands on work in a
 
 ### Core Skills
 
-**Programming & Scripting**
-- Python
-- JavaScript
-- SQL
-- Java
-- Deluge
+**💻 Programming & Scripting**
+- **Languages:** Python, JavaScript, SQL, Deluge
+- **Technical Base:** C#, Java, C++, OOP, Data Structures
 
-**Automation & CI/CD**
-- Process Automation
-- Workflow Automation
-- ETL Concepts
-- CI/CD Fundamentals
+**⚙️ Automation & QA**
+- **Integrations:** REST APIs, API Design, Webhooks, Third-Party Services
+- **Quality:** Functional Testing, SDET, Process Automation (n8n, Zoho)
 
-**Backend & APIs**
-- REST APIs
-- API Development
-- System Integrations
-- Third-Party Integrations
+**☁️ Infrastructure & Cloud**
+- **Cloud:** AWS & Azure Fundamentals, CI/CD Fundamentals
+- **Systems:** Linux (Server Management), Shell Scripting, Docker
 
-**Data & Analytics**
-- Data Analysis
-- SQL Optimization
-- Dashboards & KPIs
-- Looker Studio
+**📊 Data & Analytics**
+- **BI:** Looker Studio, Power BI, KPI Dashboards
+- **Engineering:** Data Pipelines, ETL, PostgreSQL, SQL Optimization
 
-**Cloud & Infrastructure**
-- AWS Fundamentals
-- Linux Fundamentals
-- Server Management
-- Basic Cloud Architecture
+**🛠️ Computer Engineering**
+- **Hardware:** Computer Architecture, Digital Systems, Electronics
+- **Systems:** Embedded Systems, Low-Level Programming (C/C++)
 
 
 <!-- ************************************************** Bar ***************************************************** -->
