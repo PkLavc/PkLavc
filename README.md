@@ -2,7 +2,7 @@
 
 ## Hi, I'm Patrick Araujo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Backend+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;System+Integrations+%7C+SDET+%7C+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Software+Engineer;Backend+%2B+Automation;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;System+Integrations+%7C+SDET+%7C+Platform)](https://git.io/typing-svg)
 
 ### About Me
 
@@ -239,8 +239,7 @@ Centro Universitário Newton Paiva
 
 <!-- **************************************** Support / Counter **************************************** -->
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PkLavc)
-<img src="https://komarev.com/ghpvc/?username=PkLavc&color=00FF00&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=PkLavc&color=00d1ff&style=for-the-badge">
 
 <!-- **************************************** Contribution Graph **************************************** -->
 
