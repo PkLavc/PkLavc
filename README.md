@@ -251,6 +251,8 @@ Centro Universitário Newton Paiva
 </div>
 <br>
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&hide_border=true" />
+
 
 <!-- **************************************** Support / Counter **************************************** -->
 
