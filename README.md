@@ -258,6 +258,8 @@ Centro Universitário Newton Paiva
 
 <img src="https://komarev.com/ghpvc/?username=PkLavc&color=00d1ff&style=for-the-badge">
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/PkLavc)
+
 <!-- **************************************** Contribution Graph **************************************** -->
 
 <picture>
