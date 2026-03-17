@@ -228,8 +228,15 @@ Centro Universitário Newton Paiva
 </div>
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PkLavc&show_icons=true&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=true&show=prs_merged" />
+  
+  <img width="450em" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=PkLavc&theme=tokyonight&fire=00d1ff&ring=00d1ff&currStreakLabel=00d1ff&background=00000000&hide_border=true&stroke=00d1ff" alt="PkLavc Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
+</p>
 
+<br clear="left"/>
 
 <!-- **************************************** Support / Counter **************************************** -->
 
