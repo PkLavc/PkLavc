@@ -187,29 +187,6 @@ Centro Universitário Newton Paiva
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************* Contacts **************************************************** -->
-
-<div>
-  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc.github.io/blob/26012177cc013e7e7aa0c1cd35ce8f32466f9695/images/link.gif?raw=true"/>
-  <b> Contact</b>
-</div>
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
-    <img alt="LinkedIn" height="28"
-         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:patrickajm@gmail.com" target="_blank">
-    <img alt="Email" height="28"
-         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"/>
-  </a>
-</div>
-<br>
-<!-- ************************************************** Bar ***************************************************** -->
-
-<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
-
 <!-- ************************************************* Icons **************************************************** -->
 
 <!-- Languages I use the most -->
