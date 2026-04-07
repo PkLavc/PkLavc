@@ -206,7 +206,7 @@ Centro Universitário Newton Paiva
 
 <!-- ************************************************* Featured Projects **************************************************** -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" height="28" valign="middle"> Enterprise Production Systems
+### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Production.gif?raw=true" width="28" height="28" valign="middle"> Enterprise Production Systems
 
 <ul style="list-style: none; padding-left: 0;">
   <li><a href="https://github.com/operacoesicaiu/worker-google-auth"><img src="https://img.shields.io/badge/Google_Auth_Worker-2D6AA3?style=for-the-badge&logo=github-actions&logoColor=white" valign="middle"></a> &nbsp; Central orchestrator for automated token renewal and secret management across the entire integration network.</li>
@@ -216,7 +216,7 @@ Centro Universitário Newton Paiva
   <li><a href="https://github.com/operacoesicaiu/worker-sige-auth"><img src="https://img.shields.io/badge/SIGE_Cloud_Sync-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; ERP data integrator focused on financial and inventory synchronization with daily automated refresh cycles.</li>
 </ul>
 
-### <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/computer.gif?raw=true" width="28" height="28" valign="middle"> Software Engineering & System Architecture
+### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Architecture.gif?raw=true" width="28" height="28" valign="middle"> Software Engineering & System Architecture
 
 <ul style="list-style: none; padding-left: 0;">
   <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Professional monorepo with Node.js/Fastify and 85%+ QA coverage via Playwright E2E testing.</li>
