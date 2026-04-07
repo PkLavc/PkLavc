@@ -213,13 +213,15 @@ Centro Universitário Newton Paiva
   &nbsp;Architecture Case Studies
 </h4>
 
-- [**CodePulse Monorepo**](https://github.com/PkLavc/codepulse-monorepo) — High-performance online IDE with robust Node.js backend, featuring 85%+ QA coverage with Playwright E2E testing.
-- [**Multi-Tenant SaaS Platform**](https://github.com/PkLavc/saas-backend-platform) — Enterprise-grade SaaS backend with data isolation (row-level tenancy), RBAC security, and BullMQ job processing.
-- [**Cipher Gate Proxy**](https://github.com/PkLavc/cipher-gate) — Zero-Trust proxy implementing AES-256 encryption, dynamic data masking (DDM), and automated PII detection.
-- [**Event-Driven Service**](https://github.com/PkLavc/event-driven-integration-service) — Reliable webhook processing engine for Stripe and PayPal with HMAC security and distributed tracing.
-- [**Aegis Sentinel**](https://github.com/PkLavc/aegis-sentinel) — Autonomous infrastructure recovery engine with predictive anomaly detection and self-healing capabilities.
-- [**OS Resource Optimizer**](https://github.com/PkLavc/os-resource-optimizer) — High-performance engine for CPU scheduling and memory allocation optimization in C++.
-- [**Cloud Deployment Showcase**](https://github.com/PkLavc/cloud-deployment-showcase) — Production-ready infrastructure with container orchestration, IaC, and automated CI/CD pipelines.
+<ul style="list-style: none; padding-left: 0;">
+  <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Professional monorepo with Node.js/Fastify and 85%+ QA coverage via Playwright.</li>
+  <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Enterprise NestJS API with row-level isolation and background processing via BullMQ.</li>
+  <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Zero-Trust security proxy with AES-256 encryption and dynamic data masking (DDM).</li>
+  <li><a href="https://github.com/PkLavc/event-driven-integration-service"><img src="https://img.shields.io/badge/Event--Driven_Service-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Event-driven engine for webhook processing with HMAC and OpenTelemetry tracing.</li>
+  <li><a href="https://github.com/PkLavc/aegis-sentinel"><img src="https://img.shields.io/badge/Aegis_Sentinel-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Infrastructure auto-healing engine with ML-based anomaly detection and auto-remediation.</li>
+  <li><a href="https://github.com/PkLavc/os-resource-optimizer"><img src="https://img.shields.io/badge/OS_Resource_Optimizer-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-performance C++ engine for OS resource management and preemptive scheduling.</li>
+  <li><a href="https://github.com/PkLavc/cloud-deployment-showcase"><img src="https://img.shields.io/badge/Cloud_Deployment-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Production-ready deployment patterns featuring Docker, IaC, and automated CI/CD.</li>
+</ul>
 
 <!-- ************************************************** Bar ***************************************************** -->
 
