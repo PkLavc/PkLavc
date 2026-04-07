@@ -206,21 +206,26 @@ Centro Universitário Newton Paiva
 
 <!-- ************************************************* Featured Projects **************************************************** -->
 
-### Featured Projects & Case Studies
-
-<h4>
-  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/computer.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Architecture Case Studies
-</h4>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" height="28" valign="middle"> Enterprise Production Systems
 
 <ul style="list-style: none; padding-left: 0;">
-  <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Professional monorepo with Node.js/Fastify and 85%+ QA coverage via Playwright.</li>
-  <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Enterprise NestJS API with row-level isolation and background processing via BullMQ.</li>
-  <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Zero-Trust security proxy with AES-256 encryption and dynamic data masking (DDM).</li>
-  <li><a href="https://github.com/PkLavc/event-driven-integration-service"><img src="https://img.shields.io/badge/Event--Driven_Service-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Event-driven engine for webhook processing with HMAC and OpenTelemetry tracing.</li>
-  <li><a href="https://github.com/PkLavc/aegis-sentinel"><img src="https://img.shields.io/badge/Aegis_Sentinel-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Infrastructure auto-healing engine with ML-based anomaly detection and auto-remediation.</li>
-  <li><a href="https://github.com/PkLavc/os-resource-optimizer"><img src="https://img.shields.io/badge/OS_Resource_Optimizer-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-performance C++ engine for OS resource management and preemptive scheduling.</li>
-  <li><a href="https://github.com/PkLavc/cloud-deployment-showcase"><img src="https://img.shields.io/badge/Cloud_Deployment-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Production-ready deployment patterns featuring Docker, IaC, and automated CI/CD.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-google-auth"><img src="https://img.shields.io/badge/Google_Auth_Worker-2D6AA3?style=for-the-badge&logo=github-actions&logoColor=white" valign="middle"></a> &nbsp; Central orchestrator for automated token renewal and secret management across the entire integration network.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-zoho-integration"><img src="https://img.shields.io/badge/Zoho_Integration-2D6AA3?style=for-the-badge&logo=zoho&logoColor=white" valign="middle"></a> &nbsp; Automated CRM data pipeline for real-time synchronization with Google Sheets, featuring advanced rate-limit handling.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-hablla-integration"><img src="https://img.shields.io/badge/Hablla_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Specialized worker for extracting customer experience metrics and event logs for operational BI dashboards.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-zenvia-integration"><img src="https://img.shields.io/badge/Zenvia_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Message log processing and delivery status automation via API for large-scale communication auditing.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-sige-auth"><img src="https://img.shields.io/badge/SIGE_Cloud_Sync-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; ERP data integrator focused on financial and inventory synchronization with daily automated refresh cycles.</li>
+</ul>
+
+### <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/computer.gif?raw=true" width="28" height="28" valign="middle"> Software Engineering & System Architecture
+
+<ul style="list-style: none; padding-left: 0;">
+  <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Professional monorepo with Node.js/Fastify and 85%+ QA coverage via Playwright E2E testing.</li>
+  <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Enterprise NestJS API with row-level data isolation, RBAC security, and BullMQ background processing.</li>
+  <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Zero-Trust security proxy with AES-256 encryption and Dynamic Data Masking (DDM) for PII protection.</li>
+  <li><a href="https://github.com/PkLavc/event-driven-integration-service"><img src="https://img.shields.io/badge/Event--Driven_Service-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-reliability webhook engine with HMAC validation and distributed tracing via OpenTelemetry.</li>
+  <li><a href="https://github.com/PkLavc/aegis-sentinel"><img src="https://img.shields.io/badge/Aegis_Sentinel-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Infrastructure auto-healing engine with ML-based anomaly detection and automated remediation.</li>
+  <li><a href="https://github.com/PkLavc/os-resource-optimizer"><img src="https://img.shields.io/badge/OS_Resource_Optimizer-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-performance C++ engine for system resource management and preemptive CPU scheduling.</li>
+  <li><a href="https://github.com/PkLavc/cloud-deployment-showcase"><img src="https://img.shields.io/badge/Cloud_Deployment-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Production-ready deployment patterns featuring Docker orchestration, IaC, and CI/CD pipelines.</li>
 </ul>
 
 <!-- ************************************************** Bar ***************************************************** -->
