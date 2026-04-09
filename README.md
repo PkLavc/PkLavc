@@ -206,9 +206,11 @@ Centro Universitário Newton Paiva
 
 <!-- ************************************************* Featured Projects **************************************************** -->
 
-### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Production.gif?raw=true" width="28" height="28" valign="middle"> Enterprise Production Systems
+### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Production.gif?raw=true" width="28" height="28" valign="middle"> Enterprise Production Systems & API Management
 
 <ul style="list-style: none; padding-left: 0;">
+  <li><a href="https://github.com/PkLavc/API-Hub"><img src="https://img.shields.io/badge/API_Integration_Hub-FF9900?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; <b>Technical Documentation:</b> Central architectural reference and documentation hub consolidating specifications, data flows, and technical schemas.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-omie-integration"><img src="https://img.shields.io/badge/Omie_ERP_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Automated synchronization of sales orders, sales representative metrics, and product data from Omie ERP to Google Sheets.</li>
   <li><a href="https://github.com/operacoesicaiu/worker-google-auth"><img src="https://img.shields.io/badge/Google_Auth_Worker-2D6AA3?style=for-the-badge&logo=github-actions&logoColor=white" valign="middle"></a> &nbsp; Central orchestrator for automated token renewal and secret management across the entire integration network.</li>
   <li><a href="https://github.com/operacoesicaiu/worker-zoho-integration"><img src="https://img.shields.io/badge/Zoho_Integration-2D6AA3?style=for-the-badge&logo=zoho&logoColor=white" valign="middle"></a> &nbsp; Automated CRM data pipeline for real-time synchronization with Google Sheets, featuring advanced rate-limit handling.</li>
   <li><a href="https://github.com/operacoesicaiu/worker-hablla-integration"><img src="https://img.shields.io/badge/Hablla_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Specialized worker for extracting customer experience metrics and event logs for operational BI dashboards.</li>
