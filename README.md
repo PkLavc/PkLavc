@@ -136,18 +136,18 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
 <!-- ************************************************* Courses & Certifications **************************************************** -->
 
 <details>
-  <summary><strong>Professional Certifications (40+ Credentials)</strong></summary>
+  <summary><strong>Professional Certifications (60+ Credentials)</strong></summary>
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc.github.io/blob/3d9545fa32ed5e4659c2961febbab6aba70c9441/images/Da_Vinci.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Artificial Intelligence & Generative AI (Featured Google Portfolio)
+  &nbsp;AI, Prompt Engineering & Cybersecurity (Featured Google Portfolio)
 </h4>
 
-- **Google AI Essentials:** Strategic AI Implementation, Data Synthesis, and Responsible AI.
-- **Google Prompting Essentials:** Advanced Prompt Engineering, Operational Efficiency, and AI-Driven Data Analysis.
-- **Specialized AI Partner:** Using AI as a Creative/Expert Partner & Designing Prompts for Work Tasks.
-- **AI Foundations:** Introduction to AI (Machine Learning, Deep Learning, and Ethics).
-- **Data & Presentation:** Speed Up Data Analysis and Presentation Building with AI.
+- **Artificial Intelligence:** Google AI Essentials, Strategic Implementation, and Responsible AI Foundations.
+- **Prompt Engineering:** Google Prompting Essentials, Advanced Engineering, and AI-Driven Data Analysis.
+- **Cybersecurity:** Google Cybersecurity Professional, Network Security, and Incident Response.
+- **Security Operations:** Identifying Assets, Threats, and Vulnerabilities with Detection & Remediation.
+- **Operational Efficiency:** Using AI as a Creative Partner and Speeding Up Data Analysis for Work Tasks.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
