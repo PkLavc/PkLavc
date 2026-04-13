@@ -2,15 +2,13 @@
 
 ## Hi, I'm Patrick Araujo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Solutions+%26+Integration+Architect;Technical+Owner+%7C+Backend+%26+Data+Strategy;Computer+Engineering+Student;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;System+Interoperability+%7C+Architecture+%7C+Data+Modeling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Backend+Software+Engineer;Automation+Systems+%7C+API+Integrations;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;Automating+Workflows+%26+Integrating+Systems)](https://git.io/typing-svg)
 
 ### About Me
 
-**Solutions & Integration Architect | Technical Owner | Backend & Data Strategy**
+**Backend Software Engineer | Automation, API Integrations & Scalable Systems**
 
-Specialist in backend ecosystem architecture, process interoperability, and data strategy. Focused on designing solutions that eliminate operational bottlenecks and ensure high-level scalability.
-
-As a **Bachelor of Engineering Candidate**, I bridge the gap between complex business logic and high-performance automated workflows. Currently acting as Solutions Architect and Technical Owner, leading the full-cycle development of proprietary systems and strategic integration architecture. With expertise in **AWS Cloud**, data pipelines, and a portfolio of over **40 professional certifications (including 14+ Google credentials)**, I am dedicated to engineering robust solutions that drive operational excellence at scale.
+I build backend services, real-time data pipelines, and API integrations that eliminate manual processes and turn business workflows into reliable, high-performance systems.
   
 
 <!-- ************************************************** Bar ***************************************************** -->
@@ -23,28 +21,30 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
 
 <p>
   <img align="left" height="42" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png" style="margin-right: 15px;" />
-  <b>Solutions Architect (Technical Owner)</b> — Loja do Sapo<br>
+  <b>Solutions Architect (Backend & Systems Integration)</b> — Loja do Sapo<br>
   <i>April 2026 – Present</i>
 </p>
 
-- **Custom Software Architecture:** Leading the full-cycle development of internal proprietary systems, from database schema design to backend architecture, ensuring high performance and scalability.
-- **Strategic Systems Design:** Architecting end-to-end automation ecosystems by integrating cloud services, ERP platforms, and custom APIs to eliminate operational bottlenecks.
-- **Technical Governance:** Final decision-maker for technology stack selection and system logic; responsible for system stability, security protocols, and engineering standards.
-- **Advanced Data Engineering:** Designing robust data models and ETL pipelines to power real-time dashboards, transforming complex operational data into actionable business intelligence.
+- **Architected** and led internal backend systems (**Python, PostgreSQL**) supporting **8K–12K daily transactions**.
+- **Automated** reporting workflows via APIs and GitHub Actions, eliminating **~3 hours/day** per analyst.
+- **Engineered** ETL pipelines integrating Google Cloud, Zoho, and third-party services, reducing data processing time by about **40%**.
+- **Built** a real-time internal platform with dashboards and custom filters for direct operational visibility.
+- **Defined** system architecture, technical standards, and backend governance across internal projects.
 
 <br>
 
 **Software Engineer (Backend & Automation)** *September 2025 – March 2026*
-- **Technical Leadership:** Technical owner for end-to-end automation solutions and complex system integrations, ensuring 100% functional integrity and operational reliability.
-- **API Engineering:** Developed and maintained high-availability REST API integrations (**Google Cloud, Zoho, 3rd party services**) for business-critical workflows.
-- **Infrastructure Ownership:** Technical owner for backend applications and server stability, monitoring performance and optimizing system execution.
-- **Data Engineering:** Engineered advanced data pipelines and Looker Studio dashboards to drive executive-level KPI analysis and data consistency.
+- **Integrated** REST APIs (**Python, Node.js**) across **6+ core systems** (Google Cloud, Zoho, third-party services).
+- **Automated** data extraction and enrichment workflows, reducing manual input and improving data quality.
+- **Optimized** backend performance with caching and async processing, improving API response times by **35-40%**.
+- **Maintained** AWS services (**S3, Lambda**) supporting backend processes and file handling.
+- **Built** business rules and automation logic to enforce operational constraints.
 
 <br>
 
 **Software Developer (Data & Workflows)** *October 2024 – August 2025*
-- **Process Engineering:** Implemented complex business rules and automated workflows using **Python and Deluge** to eliminate operational bottlenecks.
-- **Business Intelligence:** Built data architectures for real-time reporting, ensuring accuracy of operational metrics and data consistency.
+- **Implemented** **20+** automated workflows and business rules (**Python, Deluge**) to reduce repetitive operational tasks.
+- **Built** data pipelines and reporting structures for real-time tracking and compliance.
 
 <br clear="left"/>
 <br/>
@@ -55,16 +55,17 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
   <i>December 2025 – Present</i>
 </p>
 
-- **Interoperability Architecture:** Designing complex communication layers between disparate platforms, focusing on API-first strategies and seamless data exchange.
-- **System Optimization:** Leading the architectural redesign of bottlenecked automation features, improving processing efficiency across cloud infrastructures.
-- **Technical Standards:** Defining integration protocols and security standards for third-party API consumption and internal backend services.
+- **Architected and integrated** data exchange across **4+ platforms** using API-first strategies.
+- **Automated** financial and operational workflows, replacing manual spreadsheet-based reporting.
+- **Built** centralized dashboards and data pipelines for real-time business monitoring.
+- **Defined** API authentication, integration standards, and data flow governance for external services.
 
 <br>
 
 **Software Engineer (Systems Integration)** *March 2025 – November 2025*
-- **System Interoperability:** Engineered backend communication layers and API-based integrations to optimize data processing across platforms.
-- **Quality Engineering (QA/SDET):** Performing rigorous functional testing and API debugging to resolve complex bottlenecks in automation features.
-- **Cloud Foundations:** Leveraging **AWS fundamentals** to support and scale backend infrastructures for operational technology.
+- **Developed** backend communication layers and API integrations (**Python, REST**) across multiple systems to improve data reliability.
+- **Tested** and debugged **15+ integration endpoints**, resolving critical automation bottlenecks.
+- **Supported** AWS infrastructure (**EC2, RDS**) and backend services for distributed systems.
 
 <br clear="left"/>
 <br/>
@@ -75,9 +76,10 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
   <i>November 2015 – February 2026</i>
 </p>
 
-- **Process Automation:** Developed custom **Python tools** to automate administrative tasks and data management, significantly reducing manual effort.
-- **Systems Administration:** Managed fiscal and operational systems, ensuring technical compliance and data integrity over a 10-year tenure.
-- **Web Development:** Maintained the company's institutional web presence and internal digital tools using HTML/CSS.
+- **Developed** **25+ Python automation tools** for administrative and inventory processes, saving about **30-35 hours/week**.
+- **Designed** internal systems for inventory control, product tracking, and delivery management using local servers with cloud backup.
+- **Maintained** operational systems with focus on data accuracy and compliance.
+- **Built** and maintained internal web tools and company website (**HTML, CSS, JavaScript**).
 
 <br clear="left"/>
 <!-- ************************************************** Bar ***************************************************** -->
@@ -90,44 +92,39 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/coding.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Programming & Scripting
+  &nbsp;Backend
 </h4>
 
-- **Languages:** Python, JavaScript, SQL, Deluge
-- **Technical Base:** C#, Java, C++, OOP, Data Structures
+- Python, Node.js, SQL, JavaScript
+- Fastify, NestJS, Deluge
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Architecture & Integration
+  &nbsp;APIs & Integration
 </h4>
 
-- **Architecture:** Solutions Architecture, Software Architecture, Integration Architecture
-- **Integrations:** System Interoperability, API-first Design, REST APIs, Webhooks, Third-Party Services
-- **Automation:** Process Automation (n8n, Zoho), Intelligent Automation
+- REST APIs, Webhooks, API-first design, third-party integrations (Google Cloud, Zoho, ERP)
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Infrastructure & Cloud
+  &nbsp;Automation
 </h4>
 
-- **Cloud:** AWS (EC2, S3, Lambda), Cloud Engineering, Serverless
-- **Systems:** Shell Scripting, Docker, Webhooks
+- Workflow automation (Python, Deluge, n8n, Zoho), ETL pipelines, scheduled data processing
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/computer.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;AI & Specialized Engineering
+  &nbsp;Cloud
 </h4>
 
-- **AI:** Generative AI, Prompt Engineering, Intelligent Automation
-- **Low-Level:** Data Structures, Computer Architecture, C/C++ (Academic)
+- AWS (EC2, S3, Lambda), Docker, server-side scripting, deployment foundations
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/data.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Data & Analytics
+  &nbsp;Data
 </h4>
 
-- **BI:** Looker Studio, Power BI, KPI Dashboards
-- **Engineering:** Data Modeling, Data Pipelines, ETL, PostgreSQL, SQL Optimization
+- Data modeling, ETL, SQL optimization, PostgreSQL, Looker Studio, Power BI
 
 <!-- ************************************************** Bar ***************************************************** -->
 
@@ -136,55 +133,47 @@ As a **Bachelor of Engineering Candidate**, I bridge the gap between complex bus
 <!-- ************************************************* Courses & Certifications **************************************************** -->
 
 <details>
-  <summary><strong>Professional Certifications (60+ Credentials)</strong></summary>
+  <summary><strong>Selected Certifications</strong></summary>
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc.github.io/blob/3d9545fa32ed5e4659c2961febbab6aba70c9441/images/Da_Vinci.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;AI, Prompt Engineering & Cybersecurity (Featured Google Portfolio)
+  &nbsp;Automation, AI & Security
 </h4>
 
-- **Artificial Intelligence:** Google AI Essentials, Strategic Implementation, and Responsible AI Foundations.
-- **Prompt Engineering:** Google Prompting Essentials, Advanced Engineering, and AI-Driven Data Analysis.
-- **Cybersecurity:** Google Cybersecurity Professional, Network Security, and Incident Response.
-- **Security Operations:** Identifying Assets, Threats, and Vulnerabilities with Detection & Remediation.
-- **Operational Efficiency:** Using AI as a Creative Partner and Speeding Up Data Analysis for Work Tasks.
+- Google AI Essentials, Responsible AI Foundations, Prompting Essentials.
+- Google Cybersecurity Professional, Network Security, Incident Response.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Cloud, Infrastructure & Security
+  &nbsp;Cloud & Infrastructure
 </h4>
 
-- **AWS:** AWS Cloud Quest: Cloud Practitioner (Infrastructure, VPC, IAM, and Cloud Economics).
-- **Google Cloud & Systems:** Tools of the Trade (Linux and SQL) & Foundations: Data, Data, Everywhere.
-- **Observability:** Datadog Foundation (System Admin, API Development, and ETL).
-- **Cybersecurity:** Assets, Threats, and Vulnerabilities; Networks and Network Security; Managing Security Risks.
+- AWS Cloud Quest: Cloud Practitioner (Infrastructure, VPC, IAM, Cloud Economics).
+- Linux/SQL foundations, Datadog Foundation.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Software Engineering & Automation
 </h4>
 
-- **Python Expert:** Python with RPA and Real Project Creation (221h), Python for Backend (Santander).
-- **Object-Oriented Programming:** Complete C# OOP + Projects (38h), Algorithms and Programming Logic (Java, C, C++, C#).
-- **Development Tools:** GitHub Workshop, Linux Fundamentals, and System Administration.
-- **Automation:** Process Automation (n8n, Zoho), Webhooks, and API Design.
+- Python with RPA and Real Project Creation (221h), Python for Backend (Santander).
+- Complete C# OOP + Projects (38h), Algorithms and Programming Logic (Java, C, C++, C#).
+- Process Automation (n8n, Zoho), Webhooks, API Design.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/data.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Data Analytics & Management
+  &nbsp;Data & Analytics
 </h4>
 
-- **BI & Dashboards:** Excel Advanced, Macro and VBA + Power BI (268h), Computer Skills + Power BI (217h).
-- **Project Management:** Foundations of Project Management (Google).
-- **Business Strategy:** Financial Management, Leadership, People Management, Recruitment and Selection (SEBRAE).
+- Excel Advanced, Macro and VBA + Power BI (268h), Computer Skills + Power BI (217h).
+- Foundations of Project Management (Google).
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc.github.io/blob/3d9545fa32ed5e4659c2961febbab6aba70c9441/images/Globe.gif?raw=true" width="22" height="22" valign="middle">
-  &nbsp;Languages & Communication
+  &nbsp;Languages
 </h4>
 
-- **English:** Business English Parts 1, 2 & 3 (Santander), English Fundamentals (University of Pennsylvania), English (Kultivi).
-- **Methodology:** Accelerated Learning (Kultivi).
+- Business English (Santander), English Fundamentals (University of Pennsylvania), English (Kultivi).
 
 </details>
 
@@ -209,25 +198,25 @@ Centro Universitário Newton Paiva
 ### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Production.gif?raw=true" width="28" height="28" valign="middle"> Enterprise Production Systems & API Management
 
 <ul style="list-style: none; padding-left: 0;">
-  <li><a href="https://github.com/PkLavc/API-Hub"><img src="https://img.shields.io/badge/API_Integration_Hub-FF9900?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; <b>Technical Documentation:</b> Central architectural reference and documentation hub consolidating specifications, data flows, and technical schemas.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-google-auth"><img src="https://img.shields.io/badge/Google_Auth_Worker-2D6AA3?style=for-the-badge&logo=github-actions&logoColor=white" valign="middle"></a> &nbsp; Central orchestrator for automated token renewal and secret management across the entire integration network.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-zoho-integration"><img src="https://img.shields.io/badge/Zoho_Integration-2D6AA3?style=for-the-badge&logo=zoho&logoColor=white" valign="middle"></a> &nbsp; Automated CRM data pipeline for real-time synchronization with Google Sheets, featuring advanced rate-limit handling.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-hablla-integration"><img src="https://img.shields.io/badge/Hablla_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Specialized worker for extracting customer experience metrics and event logs for operational BI dashboards.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-zenvia-integration"><img src="https://img.shields.io/badge/Zenvia_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Message log processing and delivery status automation via API for large-scale communication auditing.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-sige-auth"><img src="https://img.shields.io/badge/SIGE_Cloud_Sync-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; ERP data integrator focused on financial and inventory synchronization with daily automated refresh cycles.</li>
-  <li><a href="https://github.com/operacoesicaiu/worker-omie-integration"><img src="https://img.shields.io/badge/Omie_ERP_Integration-008E18?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Automated synchronization of sales orders, sales representative metrics, and product data from Omie ERP to Google Sheets.</li>
+  <li><a href="https://github.com/PkLavc/API-Hub"><img src="https://img.shields.io/badge/API_Integration_Hub-FF9900?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Documentation hub for integration specs, data flows, and API contracts.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-google-auth"><img src="https://img.shields.io/badge/Google_Auth_Worker-2D6AA3?style=for-the-badge&logo=github-actions&logoColor=white" valign="middle"></a> &nbsp; Worker that automates token renewal and secret handling.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-zoho-integration"><img src="https://img.shields.io/badge/Zoho_Integration-2D6AA3?style=for-the-badge&logo=zoho&logoColor=white" valign="middle"></a> &nbsp; Worker that syncs Zoho CRM data to Google Sheets with rate-limit control.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-hablla-integration"><img src="https://img.shields.io/badge/Hablla_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Worker that extracts customer metrics and event logs for BI.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-zenvia-integration"><img src="https://img.shields.io/badge/Zenvia_Integration-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Worker for message log processing and delivery status tracking.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-sige-auth"><img src="https://img.shields.io/badge/SIGE_Cloud_Sync-2D6AA3?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; ERP integration service syncing financial and inventory data on automated cycles.</li>
+  <li><a href="https://github.com/operacoesicaiu/worker-omie-integration"><img src="https://img.shields.io/badge/Omie_ERP_Integration-008E18?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a> &nbsp; Worker that syncs Omie ERP sales, rep metrics, and product data to Sheets.</li>
 </ul>
 
 ### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Architecture.gif?raw=true" width="28" height="28" valign="middle"> Software Engineering & System Architecture
 
 <ul style="list-style: none; padding-left: 0;">
-  <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Professional monorepo with Node.js/Fastify and 85%+ QA coverage via Playwright E2E testing.</li>
-  <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Enterprise NestJS API with row-level data isolation, RBAC security, and BullMQ background processing.</li>
-  <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Zero-Trust security proxy with AES-256 encryption and Dynamic Data Masking (DDM) for PII protection.</li>
-  <li><a href="https://github.com/PkLavc/event-driven-integration-service"><img src="https://img.shields.io/badge/Event--Driven_Service-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-reliability webhook engine with HMAC validation and distributed tracing via OpenTelemetry.</li>
-  <li><a href="https://github.com/PkLavc/aegis-sentinel"><img src="https://img.shields.io/badge/Aegis_Sentinel-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Infrastructure auto-healing engine with ML-based anomaly detection and automated remediation.</li>
-  <li><a href="https://github.com/PkLavc/os-resource-optimizer"><img src="https://img.shields.io/badge/OS_Resource_Optimizer-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; High-performance C++ engine for system resource management and preemptive CPU scheduling.</li>
-  <li><a href="https://github.com/PkLavc/cloud-deployment-showcase"><img src="https://img.shields.io/badge/Cloud_Deployment-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Production-ready deployment patterns featuring Docker orchestration, IaC, and CI/CD pipelines.</li>
+  <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Backend monorepo with Node.js/Fastify and Playwright end-to-end validation, designed for scalable API services and automated testing pipelines.</li>
+  <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Multi-tenant NestJS backend with RBAC, isolated tenant data, and BullMQ job processing.</li>
+  <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Security proxy that protects API traffic with encryption and data masking for sensitive fields.</li>
+  <li><a href="https://github.com/PkLavc/event-driven-integration-service"><img src="https://img.shields.io/badge/Event--Driven_Service-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Event-driven webhook service with HMAC validation and OpenTelemetry tracing.</li>
+  <li><a href="https://github.com/PkLavc/aegis-sentinel"><img src="https://img.shields.io/badge/Aegis_Sentinel-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Monitoring and remediation service that automates infrastructure recovery after anomalies.</li>
+  <li><a href="https://github.com/PkLavc/os-resource-optimizer"><img src="https://img.shields.io/badge/OS_Resource_Optimizer-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; C++ system utility focused on CPU scheduling and resource optimization techniques.</li>
+  <li><a href="https://github.com/PkLavc/cloud-deployment-showcase"><img src="https://img.shields.io/badge/Cloud_Deployment-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Deployment reference with Docker delivery, IaC setup, and CI/CD workflows.</li>
 </ul>
 
 <!-- ************************************************** Bar ***************************************************** -->
