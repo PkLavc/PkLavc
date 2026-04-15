@@ -2,6 +2,10 @@
 
 ## Hi, I'm Patrick Araujo
 
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available%20for%20Freelance-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/pklavc)
+
+[![Gig](https://img.shields.io/badge/API%20Integrations%20%26%20Automation-View%20Gig-00d1ff?style=for-the-badge)](https://www.fiverr.com/s/yv06wRq)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Backend+Software+Engineer;Automation+Systems+%7C+API+Integrations;Python+%7C+JavaScript+%7C+REST+APIs+%7C+AWS;Automating+Workflows+%26+Integrating+Systems)](https://git.io/typing-svg)
 
 ### About Me
