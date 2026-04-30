@@ -210,6 +210,8 @@ Centro Universitário Newton Paiva
 ### <img src="https://github.com/PkLavc/PkLavc/blob/b0cd49c99059f8d89797fa36cfd2f7a5ca16e77e/resources/Icons/Animated/Architecture.gif?raw=true" width="28" height="28" valign="middle"> Software Engineering & System Architecture
 
 <ul style="list-style: none; padding-left: 0;">
+  <li><a href="https://pklavc.com/projects/skyler-assistant/"><img src="https://img.shields.io/badge/Skyler_AI_Assistant-00d1ff?style=for-the-badge&logo=cloudflare&logoColor=white" valign="middle"></a>
+&nbsp; AI assistant with intent-aware RAG, controlled orchestration, KV caching, and multi-provider LLM fallback (Groq → OpenRouter) on Cloudflare Workers.
   <li><a href="https://github.com/PkLavc/codepulse-monorepo"><img src="https://img.shields.io/badge/CodePulse_Monorepo-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Backend monorepo with Node.js/Fastify and Playwright end-to-end validation, designed for scalable API services and automated testing pipelines.</li>
   <li><a href="https://github.com/PkLavc/saas-backend-platform"><img src="https://img.shields.io/badge/Multi--Tenant_SaaS-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Multi-tenant NestJS backend with RBAC, isolated tenant data, and BullMQ job processing.</li>
   <li><a href="https://github.com/PkLavc/cipher-gate"><img src="https://img.shields.io/badge/Cipher_Gate_Proxy-00d1ff?style=for-the-badge&logo=github" valign="middle"></a> &nbsp; Security proxy that protects API traffic with encryption and data masking for sensitive fields.</li>
