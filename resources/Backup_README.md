@@ -51,7 +51,7 @@
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PkLavc&theme=tokyonight_duo&hide_border=true">
-  <img align="right" alt="Skyler - GIF" height="180" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true">
+  <img align="right" alt="Skylet" height="180" src="https://github.com/PkLavc/PkLavc/blob/main/Skylet/Skylet.png?raw=true">
 </p>
 
 <!--*************************************************Snake********************************************************** --> 
@@ -78,4 +78,3 @@
 <!--************************************************ Footer********************************************************* --> 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF00&section=footer"/>
-
